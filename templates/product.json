@@ -85,6 +85,15 @@
         "enable_video_looping": true
       }
     },
+    "163645559919df5128": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -132,6 +141,7 @@
   },
   "order": [
     "main",
+    "163645559919df5128",
     "product-recommendations",
     "1633934004de2c6bf3",
     "16340862404bdf1958"
