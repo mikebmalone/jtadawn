@@ -32,6 +32,11 @@
           "settings": {
           }
         },
+        "fceed697-eefe-4e4c-8c6c-d544ead85968": {
+          "type": "shopify:\/\/apps\/growave\/blocks\/block.product.faveButton\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "settings": {
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -47,11 +52,6 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true
-          }
-        },
-        "fceed697-eefe-4e4c-8c6c-d544ead85968": {
-          "type": "shopify:\/\/apps\/growave\/blocks\/block.product.faveButton\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
-          "settings": {
           }
         },
         "description": {
@@ -72,10 +72,10 @@
         "subtitle",
         "a96592dd-f1b2-4834-8b13-10d66ce59f2a",
         "price",
+        "fceed697-eefe-4e4c-8c6c-d544ead85968",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "fceed697-eefe-4e4c-8c6c-d544ead85968",
         "description",
         "share"
       ],
