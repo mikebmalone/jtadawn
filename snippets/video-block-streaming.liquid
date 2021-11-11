@@ -1,0 +1,77 @@
+<div class="video-block">
+  {%- if vid_label != blank -%}
+  <h2 class="title">{{ vid_label }}</h2>
+  {%- endif -%}
+  <noscript>
+    <div class="video-block__media"
+      {% if vid_image != blank %} style="padding-bottom: {{ 1 | divided_by: vid_image.aspect_ratio | times: 100 }}%;"{% endif %}
+    >
+      <a href="{{ video_url }}" class="video-block__poster media media--transparent media--landscape">
+        {%- if vid_image != blank -%}
+          <img
+            srcset="{%- if vid_image.width >= 375 -%}{{ vid_image | img_url: '375x' }} 375w,{%- endif -%}
+              {%- if vid_image.width >= 750 -%}{{ vid_image | img_url: '750x' }} 750w,{%- endif -%}
+              {%- if vid_image.width >= 1100 -%}{{ vid_image | img_url: '1100x' }} 1100w,{%- endif -%}
+              {%- if vid_image.width >= 1500 -%}{{ vid_image | img_url: '1500x' }} 1500w,{%- endif -%}
+              {%- if vid_image.width >= 1780 -%}{{ vid_image | img_url: '1780x' }} 1780w,{%- endif -%}
+              {%- if vid_image.width >= 2000 -%}{{ vid_image | img_url: '2000x' }} 2000w,{%- endif -%}
+              {%- if vid_image.width >= 3000 -%}{{ vid_image | img_url: '3000x' }} 3000w,{%- endif -%}
+              {%- if vid_image.width >= 3840 -%}{{ vid_image | img_url: '3840x' }} 3840w,{%- endif -%}
+              {{ vid_image | img_url: 'master' }} {{ vid_image.width }}w"
+            src="{{ vid_image | img_url: '1920x' }}"
+            sizes="{% if section.settings.full_width %}100vw{% else %}(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 }}px, (min-width: 750px) calc(100vw - 10rem), 100vw{% endif %}"
+            alt="{{ 'sections.video.load_video' | t: description: vid_description | escape }}"
+            loading="lazy"
+            width="{{ vid_image.width }}"
+            height="{{ vid_image.height }}"
+          >
+        {%- else -%}
+          {{ 'collection-2' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
+        {%- endif -%}
+      </a>
+    </div>
+  </noscript>
+  <deferred-media class="video-block__media deferred-media no-js-hidden" data-media-id="{{ vid_url }}"
+    {% if vid_image != blank %} style="padding-bottom: {{ 1 | divided_by: vid_image.aspect_ratio | times: 100 }}%;"{% endif %}
+  >
+    <button
+      id="Deferred-Poster-Modal-{{ vid_url }}"
+      class="video-block__poster media deferred-media__poster media--landscape"
+      type="button"
+    >
+      {%- if vid_image != blank -%}
+        <img
+          srcset="{%- if vid_image.width >= 375 -%}{{ vid_image | img_url: '375x' }} 375w,{%- endif -%}
+            {%- if vid_image.width >= 750 -%}{{ vid_image | img_url: '750x' }} 750w,{%- endif -%}
+            {%- if vid_image.width >= 1100 -%}{{ vid_image | img_url: '1100x' }} 1100w,{%- endif -%}
+            {%- if vid_image.width >= 1500 -%}{{ vid_image | img_url: '1500x' }} 1500w,{%- endif -%}
+            {%- if vid_image.width >= 1780 -%}{{ vid_image | img_url: '1780x' }} 1780w,{%- endif -%}
+            {%- if vid_image.width >= 2000 -%}{{ vid_image | img_url: '2000x' }} 2000w,{%- endif -%}
+            {%- if vid_image.width >= 3000 -%}{{ vid_image | img_url: '3000x' }} 3000w,{%- endif -%}
+            {%- if vid_image.width >= 3840 -%}{{ vid_image | img_url: '3840x' }} 3840w,{%- endif -%}
+            {{ vid_image | img_url: 'master' }} {{ vid_image.width }}w"
+          src="{{ vid_image | img_url: '1920x' }}"
+          sizes="{% if section.settings.full_width %}100vw{% else %}(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 }}px, (min-width: 750px) calc(100vw - 10rem), 100vw{% endif %}"
+          alt="{{ 'sections.video.load_video' | t: description: vid_description | escape }}"
+          loading="lazy"
+          width="{{ vid_image.width }}"
+          height="{{ vid_image.height }}"
+        >
+      {%- else -%}
+        {{ 'collection-2' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
+      {%- endif -%}
+      <span class="deferred-media__poster-button motion-reduce">
+        {%- render 'icon-play' -%}
+      </span>
+    </button>
+    <template>
+      {%- if vid_type == 'YouTube' -%}
+        <iframe src="https://www.youtube.com/embed/{{ vid_id }}?enablejsapi=1" class="js-youtube" allow="autoplay; encrypted-media" allowfullscreen title="{{ vid_description | escape }}"></iframe>
+      {%- else -%}}
+        {%- if vid_type == 'Vimeo' -%}
+          <iframe src="https://player.vimeo.com/video/{{ vid_id }}" class="js-vimeo" allow="autoplay; encrypted-media" allowfullscreen title="{{ vid_description | escape }}"></iframe>
+        {%- endif -%}
+      {%- endif -%}
+    </template>
+  </deferred-media>
+</div>
