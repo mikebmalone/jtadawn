@@ -1,0 +1,30 @@
+{% assign video_url = block.settings.product.metafields.my_fields.featured_video_url %}
+{% assign video_id = block.settings.product.metafields.my_fields.featured_video_id %}
+{% assign video_title = block.settings.product.metafields.my_fields.featured_video_title %}
+{% assign video_image = block.settings.product.metafields.my_fields.featured_video_thumbnail %}
+{% assign video_type = block.settings.product.metafields.my_fields.featured_video_type %}
+{% assign video_description = block.settings.product.metafields.my_fields.featured_video_description %}
+
+{%- if video_id != blank -%}
+  {% render 'video-block-streaming', vid_id: video_id, vid_title: video_title, vid_image: video_image, vid_type: video_type %}
+{%- else -%}
+  {%- if video_url != blank -%}
+    {% render 'video-block-url', vid_url: video_url, vid_title: video_title, vid_image: video_image, vid_type: video_type, vid_description: video_description %}
+  {%- endif -%}
+{%- endif -%}
+
+
+{% schema %}
+{
+  "name": "Dynamic video",
+  "target": "section"
+  "settings": [
+    {
+      "type": "product",
+      "id": "product",
+      "label": "product",
+      "autofill": true
+    }
+  ]
+}
+{% endschema %}
