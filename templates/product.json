@@ -132,7 +132,7 @@
     "16369543259abb5558": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclip}}\" type=\"video\/mp4\">\n    <\/video>\n\n  <\/div>"
+        "custom_liquid": "<div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclip}}\" type=\"video\/mp4\">\n    <\/video>\n{{ product.metafields.my_fields.videoclip.key.value.url }}\n\n  <\/div>"
       }
     }
   },
