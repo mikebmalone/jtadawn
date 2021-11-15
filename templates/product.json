@@ -128,12 +128,19 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "16369543259abb5558": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% assign video_url = block.settings.product.metafields.my_fields.featured_video_url %}"
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
     "1633934004de2c6bf3",
-    "16340862404bdf1958"
+    "16340862404bdf1958",
+    "16369543259abb5558"
   ]
 }
