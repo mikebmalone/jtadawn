@@ -132,7 +132,7 @@
     "16369543259abb5558": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"custom-video-wrapper\">\n {%assign custom_videos = product.metafields.my_fields.featured_video %}\n  {%if custom_videos.size > 0 %}  \n   <h3>Check out the video guide<\/h3>    \n     {% for file in custom_videos %}\n      {% assign file_key = file | first %}\n      {% assign file_link = file | last %}\n      {% assign file_link = file_link | replace: '\/watch?v=', '\/embed\/'%}\n       <iframe width=\"560\" height=\"315\" src=\"{{file_link}}\" frameborder=\"0\"><\/iframe>\n      {%endfor%}\n  {%endif%}\n  <\/div>\nyoink"
+        "custom_liquid": "{{ product.title }}"
       }
     }
   },
