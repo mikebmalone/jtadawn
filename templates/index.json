@@ -34,8 +34,8 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/18_08.jpg",
-        "image_2": "shopify:\/\/shop_images\/toyosteel_factory_in_osaka_japan.jpg",
+        "image": "shopify:\/\/shop_images\/toyosteel_factory_in_osaka_japan.jpg",
+        "image_2": "shopify:\/\/shop_images\/Toyo_Steel-high.gif",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
