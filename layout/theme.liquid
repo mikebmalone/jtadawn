@@ -121,6 +121,30 @@
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
     
     {{ 'socialshopwave-custom.css' | asset_url | stylesheet_tag }}
+    
+    <!-- Autopilot japanesetools capture code -->
+<script>
+	window.ap3c = window.ap3c || {};
+	var ap3c = window.ap3c;
+	ap3c.cmd = ap3c.cmd || [];
+	ap3c.shopifyIsProductVariantAvailableMap = {};
+
+	ap3c.shopifyProductDefaultVariantId = '{{ product.selected_or_first_available_variant.id }}';
+    ap3c.shopifyLiquidEmail = '{%- if customer -%}{{ customer.email }}{%- elsif checkout -%}{{ checkout.email }}{%- elsif order -%}{{ order.email }}{%- endif -%}';
+    ap3c.shopifyIsProductAvailable = '{% if product.has_only_default_variant %}{% if product.available %}true{% else %}false{% endif %}{% else %}{% if product.selected_variant.id %}{% if product.selected_variant.available %}true{% else %}false{% endif %}{% else %}{% if product.available %}true{% else %}false{% endif %}{% endif %}{% endif %}';
+ 	{% for v in product.variants %}
+    	ap3c.shopifyIsProductVariantAvailableMap['{{ v.id }}'] = {{ v.available }};
+	{% endfor %}
+
+	ap3c.cmd.push(function() {
+		ap3c.init('YVZAF1uSZBYT3YFgamFwYW5lc2V0b29scw', 'https://capture-api.autopilotapp.com/');
+		ap3c.track({v: 0, email: ap3c.shopifyLiquidEmail || null});
+	});
+	var s, t; s = document.createElement('script'); s.type = 'text/javascript'; s.src = "https://cdn3l.ink/app.js";
+	t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(s, t);
+</script>
+    
+    
   </head>
 
   <body class="gradient">
