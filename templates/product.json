@@ -144,6 +144,41 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "1637037826ba707c88": {
+      "type": "image-with-text",
+      "blocks": {
+        "1637037826a95e39f8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1637037826a95e39f8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1637037826a95e39f8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1637037826a95e39f8-0",
+        "1637037826a95e39f8-1",
+        "1637037826a95e39f8-2"
+      ],
+      "settings": {
+        "image": "{{ product.metafields.my_fields.videoclip.value }}",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -151,6 +186,7 @@
     "16369543259abb5558",
     "product-recommendations",
     "1633934004de2c6bf3",
-    "16340862404bdf1958"
+    "16340862404bdf1958",
+    "1637037826ba707c88"
   ]
 }
