@@ -95,6 +95,12 @@
         "enable_video_looping": true
       }
     },
+    "163703783410c77d62": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"image-with-text page-width color-scheme-background-1\">\n  <div class=\"image-with-text__grid color-background-1 grid grid--gapless grid--1-col grid--2-col-tablet gradient\">\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__media image-with-text__media--adapt media\" style=\"padding-bottom: 100.0%;\">\n<div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclip.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div>\n      <\/div>\n    <\/div>\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__content image-with-text__content--adapt\"><h2 class=\"image-with-text__heading h1\">\n                Video Heading\n              <\/h2><div class=\"image-with-text__text rte\"><p>Pair text with an video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review. <br\/>Add details on availability, style, or even provide a review.<\/p><\/div><\/div>\n    <\/div>\n  <\/div>\n<\/div>"
+      }
+    },
     "1637046325e90d3c32": {
       "type": "image-with-text",
       "blocks": {
@@ -130,19 +136,6 @@
         "layout": "text_first"
       }
     },
-    "163703783410c77d62": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"image-with-text page-width color-scheme-background-1\">\n  <div class=\"image-with-text__grid color-background-1 grid grid--gapless grid--1-col grid--2-col-tablet gradient\">\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__media image-with-text__media--adapt media\" style=\"padding-bottom: 100.0%;\">\n<div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclip.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div>\n      <\/div>\n    <\/div>\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__content image-with-text__content--adapt\"><h2 class=\"image-with-text__heading h1\">\n                Video Heading\n              <\/h2><div class=\"image-with-text__text rte\"><p>Pair text with an video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review. <br\/>Add details on availability, style, or even provide a review.<\/p><\/div><\/div>\n    <\/div>\n  <\/div>\n<\/div>"
-      }
-    },
-    "16369543259abb5558": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "settings": {
-        "custom_liquid": "<div class=\"multicolumn background-inverted\">\n  <div class=\"page-width\">\n    <slider-component class=\"slider-mobile-gutter\">\n      <ul class=\"multicolumn-list grid grid--1-col grid--3-col-tablet\" id=\"Slider-template--15216017440945__163695598127ece1ce\" role=\"list\"><li class=\"multicolumn-list__item grid__item\">\n            <div class=\"multicolumn-card\"><div class=\"multicolumn-card__info\"><div class=\"rte\">  <div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclip.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div><\/div>\n            <\/div>\n          <\/li><li class=\"multicolumn-list__item grid__item\">\n            <div class=\"multicolumn-card\"><div class=\"multicolumn-card__info\"><div class=\"rte\">  <div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclipthree.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div><\/div>\n            <\/div>\n          <\/li><li class=\"multicolumn-list__item grid__item\">\n            <div class=\"multicolumn-card\"><div class=\"multicolumn-card__info\"><div class=\"rte\">  <div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclip.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div><\/div>\n            <\/div>\n          <\/li><\/ul><\/slider-component>\n    <div class=\"center\"><a class=\"button button--primary\" role=\"link\" aria-disabled=\"true\">\n          View All {{ product.type }} Videos\n        <\/a><\/div>\n  <\/div>\n<\/div>\n<style>\nvideo {\n    min-width: 100%;\n    min-height: 100%;\n    width: auto;\n    height: auto;\n}\n<\/style>"
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -157,6 +150,7 @@
     },
     "1633934004de2c6bf3": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "On Sale",
         "collection": "on-sale",
@@ -169,6 +163,12 @@
         "show_image_outline": true,
         "show_vendor": true,
         "show_rating": true
+      }
+    },
+    "16369543259abb5558": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"multicolumn background-inverted\">\n  <div class=\"page-width\">\n    <slider-component class=\"slider-mobile-gutter\">\n      <ul class=\"multicolumn-list grid grid--1-col grid--3-col-tablet\" id=\"Slider-template--15216017440945__163695598127ece1ce\" role=\"list\"><li class=\"multicolumn-list__item grid__item\">\n            <div class=\"multicolumn-card\"><div class=\"multicolumn-card__info\"><div class=\"rte\">  <div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclip.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div><\/div>\n            <\/div>\n          <\/li><li class=\"multicolumn-list__item grid__item\">\n            <div class=\"multicolumn-card\"><div class=\"multicolumn-card__info\"><div class=\"rte\">  <div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclipthree.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div><\/div>\n            <\/div>\n          <\/li><li class=\"multicolumn-list__item grid__item\">\n            <div class=\"multicolumn-card\"><div class=\"multicolumn-card__info\"><div class=\"rte\">  <div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclip.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div><\/div>\n            <\/div>\n          <\/li><\/ul><\/slider-component>\n    <div class=\"center\"><a class=\"button button--primary\" role=\"link\" aria-disabled=\"true\">\n          View All {{ product.type }} Videos\n        <\/a><\/div>\n  <\/div>\n<\/div>\n<style>\nvideo {\n    min-width: 100%;\n    min-height: 100%;\n    width: auto;\n    height: auto;\n}\n<\/style>"
       }
     },
     "16340862404bdf1958": {
@@ -190,11 +190,11 @@
   },
   "order": [
     "main",
-    "1637046325e90d3c32",
     "163703783410c77d62",
-    "16369543259abb5558",
+    "1637046325e90d3c32",
     "product-recommendations",
     "1633934004de2c6bf3",
+    "16369543259abb5558",
     "16340862404bdf1958"
   ]
 }
