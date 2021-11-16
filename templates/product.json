@@ -140,7 +140,7 @@
         "image": "{{ product.metafields.my_fields.videocliptwo.value }}",
         "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     },
     "product-recommendations": {
@@ -213,6 +213,7 @@
         },
         "1637046329e0717844-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Button label",
             "button_link_1": "",
