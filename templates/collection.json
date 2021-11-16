@@ -37,11 +37,18 @@
         "show_vendor": true,
         "show_rating": true
       }
+    },
+    "1637030652e0581187": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script src=\"https:\/\/apps.elfsight.com\/p\/platform.js\" defer><\/script>\n<div class=\"elfsight-app-af7c8f7e-c9cc-4094-8d65-8f6a65ab7cc0\"><\/div>"
+      }
     }
   },
   "order": [
     "banner",
     "product-grid",
-    "163347877144fc0534"
+    "163347877144fc0534",
+    "1637030652e0581187"
   ]
 }
