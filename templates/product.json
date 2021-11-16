@@ -148,7 +148,7 @@
     "163703783410c77d62": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"image-with-text page-width color-scheme-background-1\">\n  <div class=\"image-with-text__grid color-background-1 grid grid--gapless grid--1-col grid--2-col-tablet gradient\">\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__media image-with-text__media--adapt media\" style=\"padding-bottom: 100.0%;\">\n<div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclip.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div>\n      <\/div>\n    <\/div>\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__content image-with-text__content--adapt\"><h2 class=\"image-with-text__heading h1\">\n                Video Heading\n              <\/h2><div class=\"image-with-text__text rte\"><p>Pair text with an video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review. <br\/>Add details on availability, style, or even provide a review.<\/p><\/div><\/div>\n    <\/div>\n  <\/div>\n<\/div>"
+        "custom_liquid": ""
       }
     }
   },
