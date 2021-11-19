@@ -23,7 +23,7 @@
           }
         },
         "a96592dd-f1b2-4834-8b13-10d66ce59f2a": {
-          "type": "shopify:\/\/apps\/growave\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist-3\/blocks\/block.product.reviewAvgProfile\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
           "settings": {
           }
         },
@@ -33,7 +33,7 @@
           }
         },
         "fceed697-eefe-4e4c-8c6c-d544ead85968": {
-          "type": "shopify:\/\/apps\/growave\/blocks\/block.product.faveButton\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist-3\/blocks\/block.product.faveButton\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
           "settings": {
           }
         },
@@ -97,18 +97,21 @@
     },
     "163703783410c77d62": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div class=\"image-with-text page-width color-scheme-background-1\">\n  <div class=\"image-with-text__grid color-background-1 grid grid--gapless grid--1-col grid--2-col-tablet gradient\">\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__media image-with-text__media--adapt media\" style=\"padding-bottom: 100.0%;\">\n<div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclip.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div>\n      <\/div>\n    <\/div>\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__content image-with-text__content--adapt\"><h2 class=\"image-with-text__heading h1\">\n                Video Heading\n              <\/h2><div class=\"image-with-text__text rte\"><p>Pair text with an video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review. <br\/>Add details on availability, style, or even provide a review.<\/p><\/div><\/div>\n    <\/div>\n  <\/div>\n<\/div>\n<style>\nvideo {\n    min-width: 100%;\n    min-height: 100%;\n    width: auto;\n    height: auto;\n}\n<\/style>"
       }
     },
     "16370479588eb03783": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div class=\"image-with-text page-width color-scheme-background-1\">\n  <div class=\"image-with-text__grid color-background-1 grid grid--gapless grid--1-col grid--2-col-tablet gradient image-with-text__grid--reverse\">\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__media image-with-text__media--adapt media\" style=\"padding-bottom: 100.0%;\">\n<div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videocliptwo.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div>\n      <\/div>\n    <\/div>\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__content image-with-text__content--adapt\"><h2 class=\"image-with-text__heading h1\">\n                Video Heading\n              <\/h2><div class=\"image-with-text__text rte\"><p>Pair text with an video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review. <br\/>Add details on availability, style, or even provide a review.<\/p><\/div><\/div>\n    <\/div>\n  <\/div>\n<\/div>"
       }
     },
     "1637046325e90d3c32": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1637046325571afb6b-0": {
           "type": "heading",
@@ -183,7 +186,7 @@
       "type": "apps",
       "blocks": {
         "3d8f5ccd-e15b-4280-b722-65c94bca0236": {
-          "type": "shopify:\/\/apps\/growave\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
+          "type": "shopify:\/\/apps\/growave-loyalty-wishlist-3\/blocks\/block.product.reviewWidget\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
           "settings": {
           }
         }
@@ -197,6 +200,7 @@
     },
     "1637046329f1157f77": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1637046329e0717844-0": {
           "type": "heading",
