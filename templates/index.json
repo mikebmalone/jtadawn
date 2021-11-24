@@ -84,8 +84,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Toyo Steel Toolboxes",
-        "collection": "toyo-steel-toolboxes",
+        "title": "Christmas Gift Ideas",
+        "collection": "christmas-gift-ideas",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": true,
