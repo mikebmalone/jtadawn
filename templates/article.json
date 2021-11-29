@@ -43,16 +43,9 @@
       ],
       "settings": {
       }
-    },
-    "16334872353b3736fe": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "% include 'relatedblogs' %"
-      }
     }
   },
   "order": [
-    "main",
-    "16334872353b3736fe"
+    "main"
   ]
 }
