@@ -85,54 +85,6 @@
         "enable_video_looping": true
       }
     },
-    "163703783410c77d62": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"image-with-text page-width color-scheme-background-1\">\n  <div class=\"image-with-text__grid color-background-1 grid grid--gapless grid--1-col grid--2-col-tablet gradient\">\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__media image-with-text__media--adapt media\" style=\"padding-bottom: 100.0%;\">\n<div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclip.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div>\n      <\/div>\n    <\/div>\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__content image-with-text__content--adapt\"><h2 class=\"image-with-text__heading h1\">\n                Video Heading\n              <\/h2><div class=\"image-with-text__text rte\"><p>Pair text with an video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review. <br\/>Add details on availability, style, or even provide a review.<\/p><\/div><\/div>\n    <\/div>\n  <\/div>\n<\/div>\n<style>\nvideo {\n    min-width: 100%;\n    min-height: 100%;\n    width: auto;\n    height: auto;\n}\n<\/style>"
-      }
-    },
-    "16370479588eb03783": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"image-with-text page-width color-scheme-background-1\">\n  <div class=\"image-with-text__grid color-background-1 grid grid--gapless grid--1-col grid--2-col-tablet gradient image-with-text__grid--reverse\">\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__media image-with-text__media--adapt media\" style=\"padding-bottom: 100.0%;\">\n<div class=\"video\">\n    <video loop muted playsinline autoplay>\n      <source src=\"{{ product.metafields.my_fields.videoclip.value.url }}\" type=\"video\/mp4\">\n    <\/video><\/div>\n      <\/div>\n    <\/div>\n    <div class=\"grid__item\">\n      <div class=\"image-with-text__content image-with-text__content--adapt\"><h2 class=\"image-with-text__heading h1\">\n                Video Heading\n              <\/h2><div class=\"image-with-text__text rte\"><p>Pair text with an video to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review. <br\/>Add details on availability, style, or even provide a review.<\/p><\/div><\/div>\n    <\/div>\n  <\/div>\n<\/div>"
-      }
-    },
-    "1637046325e90d3c32": {
-      "type": "image-with-text",
-      "blocks": {
-        "1637046325571afb6b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Etc etc{{ product.title }}"
-          }
-        },
-        "1637046325571afb6b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>{{ product.title }}<\/p>"
-          }
-        },
-        "1637046325571afb6b-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1637046325571afb6b-0",
-        "1637046325571afb6b-1",
-        "1637046325571afb6b-2"
-      ],
-      "settings": {
-        "image": "{{ product.metafields.my_fields.videoclip.value }}",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -233,9 +185,6 @@
   },
   "order": [
     "main",
-    "163703783410c77d62",
-    "16370479588eb03783",
-    "1637046325e90d3c32",
     "product-recommendations",
     "1633934004de2c6bf3",
     "16369543259abb5558",
