@@ -13,6 +13,7 @@
     },
     "163581111692efaeaf": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "163581111692efaeaf-0": {
           "type": "heading",
@@ -49,6 +50,7 @@
     },
     "1633486606da8fb348": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "JTA Chisel Tips",
         "blog": "chisel-tips",
@@ -62,6 +64,7 @@
     },
     "1635811122083bd2e4": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "JTA's Plane Tips",
         "blog": "jtas-plane-tips",
@@ -75,6 +78,7 @@
     },
     "163581123162f89422": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Sharpening Tips",
         "blog": "sharpening",
