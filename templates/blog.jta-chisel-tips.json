@@ -13,6 +13,7 @@
     },
     "163581111692efaeaf": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "163581111692efaeaf-0": {
           "type": "heading",
@@ -62,6 +63,7 @@
     },
     "1635811122083bd2e4": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "JTA's Plane Tips",
         "blog": "jtas-plane-tips",
@@ -75,6 +77,7 @@
     },
     "163581123162f89422": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Sharpening Tips",
         "blog": "sharpening",
@@ -88,6 +91,7 @@
     },
     "1635811269e7b8cbb0": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "The JTA Carving Circle",
         "blog": "the-jta-carving-circle",
