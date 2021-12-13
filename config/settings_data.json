@@ -33,8 +33,8 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Mailing Out Orders Every Weekday Showroom Closed Due to Covid Developments",
-              "color_scheme": "inverse",
+              "text": "EXPRESS post $10.00 flat rate (Australia wide) for all orders up to 3kg, from 13th-23rd Dec. Otherwise standard shipping of $9 is still available",
+              "color_scheme": "accent-2",
               "link": ""
             }
           },
