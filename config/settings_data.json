@@ -40,6 +40,7 @@
           },
           "824ccfa2-885f-46da-a8ec-d02edc7c650a": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Our Kogorah showroom is reopen bigger & better than ever 😊",
               "color_scheme": "accent-1",
