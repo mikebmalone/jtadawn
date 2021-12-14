@@ -40,11 +40,10 @@
           },
           "824ccfa2-885f-46da-a8ec-d02edc7c650a": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Our Kogorah showroom is reopen bigger & better than ever 😊",
+              "text": "Showroom Open. Mon to Fri.  9am - 5pm",
               "color_scheme": "accent-1",
-              "link": ""
+              "link": "shopify:\/\/pages\/try-before-you-buy"
             }
           }
         },
