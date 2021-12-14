@@ -11,43 +11,6 @@
         "show_author": false
       }
     },
-    "163581111692efaeaf": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "163581111692efaeaf-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "The JTA Blog",
-            "heading_size": "h1"
-          }
-        },
-        "163581111692efaeaf-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Welcome to the JTA Blog with tips and tricks to setup and tune your tools to interesting facts from at home and abroad.<\/p>"
-          }
-        },
-        "163581111692efaeaf-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "163581111692efaeaf-0",
-        "163581111692efaeaf-1",
-        "163581111692efaeaf-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
     "1633486606da8fb348": {
       "type": "featured-blog",
       "settings": {
@@ -61,69 +24,47 @@
         "show_view_all": false
       }
     },
-    "1635811122083bd2e4": {
-      "type": "featured-blog",
-      "disabled": true,
+    "1639445614522af272": {
+      "type": "rich-text",
+      "blocks": {
+        "163944561425a3aedd-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "163944561425a3aedd-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "163944561425a3aedd-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "All Blogs",
+            "button_link": "shopify:\/\/blogs\/the-jta-blog",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "163944561425a3aedd-0",
+        "163944561425a3aedd-1",
+        "163944561425a3aedd-2"
+      ],
       "settings": {
-        "heading": "JTA's Plane Tips",
-        "blog": "jtas-plane-tips",
-        "post_limit": 4,
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "soft_background": false,
-        "show_view_all": true
-      }
-    },
-    "163581123162f89422": {
-      "type": "featured-blog",
-      "disabled": true,
-      "settings": {
-        "heading": "Sharpening Tips",
-        "blog": "sharpening",
-        "post_limit": 4,
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "soft_background": false,
-        "show_view_all": true
-      }
-    },
-    "1635811269e7b8cbb0": {
-      "type": "featured-blog",
-      "disabled": true,
-      "settings": {
-        "heading": "The JTA Carving Circle",
-        "blog": "the-jta-carving-circle",
-        "post_limit": 4,
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "soft_background": false,
-        "show_view_all": true
-      }
-    },
-    "16358113003bd2fe5d": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "General Interest",
-        "blog": "the-jta-blog",
-        "post_limit": 4,
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "soft_background": false,
-        "show_view_all": true
+        "color_scheme": "background-1",
+        "full_width": true
       }
     }
   },
   "order": [
     "main",
-    "163581111692efaeaf",
     "1633486606da8fb348",
-    "1635811122083bd2e4",
-    "163581123162f89422",
-    "1635811269e7b8cbb0",
-    "16358113003bd2fe5d"
+    "1639445614522af272"
   ]
 }
