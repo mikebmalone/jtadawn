@@ -811,3 +811,7 @@ a.product__text {
   margin: 0;
   width: 2.2rem;
 }
+.product__description.rte iframe {
+    width: 100% !important;
+    height: 40VH;
+}
