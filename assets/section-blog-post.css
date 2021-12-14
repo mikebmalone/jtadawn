@@ -177,3 +177,8 @@
 .clear {
   clear:both;
 }
+@media screen and (max-width: 750px) {
+  .article-template__hero-container.posts {
+    padding: 0 1.5rem;
+  }
+}
