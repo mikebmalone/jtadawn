@@ -173,3 +173,6 @@
     margin: 5rem 0 8rem;
   }
 }
+.clear {
+  clear:both;
+}
