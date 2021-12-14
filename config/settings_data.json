@@ -89,12 +89,21 @@
               "heading": "JTA HQ",
               "subtext": "<p>29 Production Ave, Kogarah NSW 2217<\/p><p><a href=\"tel: 02 9527 3870\">Call 02 9527 3870<\/a><\/p><p><a href=\"mailto:info@japanesetools.com.au\">info@japanesetools.com.au<\/a><\/p>"
             }
+          },
+          "719b3f07-0ea1-4415-bf7d-8ba9c6320ad0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/afterpay_logo_5402.jpg",
+              "image_width": 200,
+              "alignment": "center"
+            }
           }
         },
         "block_order": [
           "footer-0",
           "87ce9084-f855-43f6-b885-955ab2ac108a",
-          "footer-1"
+          "footer-1",
+          "719b3f07-0ea1-4415-bf7d-8ba9c6320ad0"
         ],
         "settings": {
           "color_scheme": "accent-1",
