@@ -1,7 +1,55 @@
 {
   "sections": {
+    "1639454140d7479252": {
+      "type": "image-banner",
+      "blocks": {
+        "1639454140cea39157-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "1639454140cea39157-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1639454140cea39157-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Christmas Gift Ideas",
+            "button_link_1": "shopify:\/\/collections\/christmas-gift-ideas",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1639454140cea39157-0",
+        "1639454140cea39157-1",
+        "1639454140cea39157-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Carpenter_s_Measuring_Christmas_2021_00525.jpg",
+        "image_2": "shopify:\/\/shop_images\/giftcard-bg.jpg",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "flex-end",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "inverse",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -252,56 +300,10 @@
         "color_scheme": "background-1",
         "full_width": false
       }
-    },
-    "1639454140d7479252": {
-      "type": "image-banner",
-      "blocks": {
-        "1639454140cea39157-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "1639454140cea39157-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "1639454140cea39157-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Christmas Gift Ideas",
-            "button_link_1": "shopify:\/\/collections\/christmas-gift-ideas",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1639454140cea39157-0",
-        "1639454140cea39157-1",
-        "1639454140cea39157-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/giftcard-bg.jpg",
-        "image_2": "shopify:\/\/shop_images\/Carpenter_s_Measuring_Christmas_2021_00525.jpg",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-end",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "inverse",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
+    "1639454140d7479252",
     "image_banner",
     "rich_text",
     "featured_products",
@@ -310,7 +312,6 @@
     "163392785340acd066",
     "1633935714431a2bf0",
     "1633478700e692e19b",
-    "16339295346bea512a",
-    "1639454140d7479252"
+    "16339295346bea512a"
   ]
 }
