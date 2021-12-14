@@ -35,7 +35,7 @@
   .article-template__hero-small {
     height: 22rem;
   }
-
+  
   .article-template__hero-medium {
     height: 44rem;
   }
@@ -43,6 +43,10 @@
   .article-template__hero-large {
     height: 66rem;
   }
+  
+  .article-template__hero-container.posts {
+    padding: 0 1.5rem;
+}
 }
 
 @media screen and (min-width: 990px) {
