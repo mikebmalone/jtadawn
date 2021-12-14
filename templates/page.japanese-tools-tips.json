@@ -43,12 +43,26 @@
         "soft_background": false,
         "show_view_all": true
       }
+    },
+    "16394461372d1faf61": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "JTA CARVING TIPS",
+        "blog": "the-jta-carving-circle",
+        "post_limit": 4,
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": true
+      }
     }
   },
   "order": [
     "main",
     "163944606789993762",
     "1639446073df1ace0e",
-    "1639446111aa505c7e"
+    "1639446111aa505c7e",
+    "16394461372d1faf61"
   ]
 }
