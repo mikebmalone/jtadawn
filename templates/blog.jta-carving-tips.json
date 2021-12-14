@@ -16,7 +16,7 @@
       "settings": {
         "heading": "The JTA Carving Circle",
         "blog": "the-jta-carving-circle",
-        "post_limit": 4,
+        "post_limit": 12,
         "show_image": true,
         "show_date": true,
         "show_author": false,
