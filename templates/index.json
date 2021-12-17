@@ -36,7 +36,7 @@
         "1639454140cea39157-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/2000x2000.jpg",
+        "image": "shopify:\/\/shop_images\/japanese_starter_set-_black_2890x_1ad76409-b126-477f-aea6-49beff630600.jpg",
         "image_2": "shopify:\/\/shop_images\/giftcard-bg.jpg",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
@@ -148,8 +148,8 @@
     "1635812071e4802376": {
       "type": "featured-collection",
       "settings": {
-        "title": "Back in Stock",
-        "collection": "back-in-stock",
+        "title": "New In Gardening",
+        "collection": "gardening",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
