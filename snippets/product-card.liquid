@@ -18,7 +18,10 @@
 
 <div class="card-wrapper mike">
 
-
+  {% capture the_snippet_fave_icon %}{% render 'ssw-widget-faveicon' with product.id %}{% endcapture %}
+  {% unless the_snippet_fave_icon contains 'Liquid error' %}
+  {{ the_snippet_fave_icon }}
+  {% endunless %}    
   
   <div class="card-information">
     <div class="card-information__wrapper">
@@ -63,10 +66,6 @@
   </div>
 
   <div class="card card--product{% if product_card_product.featured_media == nil %} card--text-only card--soft{% endif %}{% if product_card_product.featured_media != nil and show_image_outline %} card--outline{% endif %}" tabindex="-1">
-    {% capture the_snippet_fave_icon %}{% render 'ssw-widget-faveicon' with product.id %}{% endcapture %}
-    {% unless the_snippet_fave_icon contains 'Liquid error' %}
-    {{ the_snippet_fave_icon }}
-    {% endunless %}    
     <div class="card__inner">
       {%- if product_card_product.featured_media -%}
         {%- liquid
