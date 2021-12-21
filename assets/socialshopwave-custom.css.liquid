@@ -32,13 +32,16 @@
   text-decoration: none;
   border: 0.1rem solid transparent;
   border-radius: 0;
-  background-color: white;
-  color: black;
+  background-color: rgba(var(--color-button),var(--alpha-button-background));
+  color: rgb(var(--color-button-text));
   transition: box-shadow var(--duration-short) ease;
   appearance: none; 
+      --color-button: var(--color-base-outline-button-labels);
+    --color-button-text: var(--color-base-outline-button-labels);
+    --alpha-button-background: 0;
 }
 
 #widget-fave-html .ssw-fave-btn .ssw-fave-btn-content:hover {
-
+  background-color: rgba(var(--color-button),var(--alpha-button-background));
   box-shadow: 0 0 0 0.2rem rgba(var(--color-button),var(--alpha-button-border));
 }
