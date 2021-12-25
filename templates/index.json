@@ -300,6 +300,16 @@
         "color_scheme": "background-1",
         "full_width": false
       }
+    },
+    "16404370381106b261": {
+      "type": "video",
+      "settings": {
+        "heading": "Handmade Washi Now Available at JTA",
+        "cover_image": "shopify:\/\/shop_images\/Laying_Down_Papers.gif",
+        "video_url": "https:\/\/vimeo.com\/652363251",
+        "description": "",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -312,6 +322,7 @@
     "163392785340acd066",
     "1633935714431a2bf0",
     "1633478700e692e19b",
-    "16339295346bea512a"
+    "16339295346bea512a",
+    "16404370381106b261"
   ]
 }
