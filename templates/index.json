@@ -132,17 +132,17 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Christmas Gift Ideas",
-        "collection": "christmas-gift-ideas",
-        "products_to_show": 4,
+        "title": "Washi Now Available",
+        "collection": "washi",
+        "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
         "image_ratio": "square",
         "show_secondary_image": true,
-        "add_image_padding": true,
+        "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": true,
-        "show_rating": true
+        "show_vendor": false,
+        "show_rating": false
       }
     },
     "1635812071e4802376": {
