@@ -129,6 +129,32 @@
         "full_width": true
       }
     },
+    "16404370381106b261": {
+      "type": "video",
+      "settings": {
+        "heading": "Handmade Washi Now Available at JTA",
+        "cover_image": "shopify:\/\/shop_images\/Laying_Down_Papers.gif",
+        "video_url": "https:\/\/vimeo.com\/652363251",
+        "description": "",
+        "full_width": false
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "More than Paper",
+        "collection": "washi",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "1640442025f0266c09": {
       "type": "video",
       "settings": {
@@ -205,32 +231,6 @@
         "secondary_background": true,
         "hide_variants": false,
         "enable_video_looping": false
-      }
-    },
-    "16404370381106b261": {
-      "type": "video",
-      "settings": {
-        "heading": "Handmade Washi Now Available at JTA",
-        "cover_image": "shopify:\/\/shop_images\/Laying_Down_Papers.gif",
-        "video_url": "https:\/\/vimeo.com\/652363251",
-        "description": "",
-        "full_width": false
-      }
-    },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "More than Paper",
-        "collection": "washi",
-        "products_to_show": 8,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
       }
     },
     "164044354357bb1622": {
@@ -428,10 +428,10 @@
     "1639454140d7479252",
     "image_banner",
     "rich_text",
-    "1640442025f0266c09",
-    "1640442028ff1e9280",
     "16404370381106b261",
     "featured_products",
+    "1640442025f0266c09",
+    "1640442028ff1e9280",
     "164044354357bb1622",
     "1635812071e4802376",
     "1633478700e692e19b",
