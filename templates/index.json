@@ -310,6 +310,16 @@
         "color_scheme": "background-1",
         "full_width": false
       }
+    },
+    "1640442025f0266c09": {
+      "type": "video",
+      "settings": {
+        "heading": "Hand Printed Shirts - Limited Run",
+        "cover_image": "shopify:\/\/shop_images\/JTA_Shirt_Reveal.gif",
+        "video_url": "https:\/\/vimeo.com\/650769618",
+        "description": "",
+        "full_width": false
+      }
     }
   },
   "order": [
@@ -323,6 +333,7 @@
     "163392785340acd066",
     "1633935714431a2bf0",
     "1633478700e692e19b",
-    "16339295346bea512a"
+    "16339295346bea512a",
+    "1640442025f0266c09"
   ]
 }
