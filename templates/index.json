@@ -406,6 +406,22 @@
         "color_scheme": "background-1",
         "full_width": false
       }
+    },
+    "164044354357bb1622": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Boxing Day Specials - 15% off all saws",
+        "collection": "saws-boxing-day-sale",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
     }
   },
   "order": [
@@ -422,6 +438,7 @@
     "1640442342d5a2f857",
     "163392785340acd066",
     "1633935714431a2bf0",
-    "16339295346bea512a"
+    "16339295346bea512a",
+    "164044354357bb1622"
   ]
 }
