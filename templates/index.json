@@ -1,5 +1,41 @@
 {
   "sections": {
+    "1640490560901f9aa8": {
+      "type": "image-with-text",
+      "blocks": {
+        "1640490560ae91463e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Boxing Day Sale"
+          }
+        },
+        "1640490560ae91463e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>15% Off Washi<br\/>15% Off Saws<br\/>15% Off Kakuri Planes<br\/>15% Off Hybrid Chisels<\/p><p><\/p><p>More info below.<\/p>"
+          }
+        },
+        "1640490560ae91463e-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1640490560ae91463e-0",
+        "1640490560ae91463e-1",
+        "1640490560ae91463e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Lamp_01040_9d9d9020-f987-4f24-a253-5555e76fefec.jpg",
+        "height": "large",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
     "1639454140d7479252": {
       "type": "image-banner",
       "disabled": true,
@@ -425,6 +461,7 @@
     }
   },
   "order": [
+    "1640490560901f9aa8",
     "1639454140d7479252",
     "image_banner",
     "rich_text",
