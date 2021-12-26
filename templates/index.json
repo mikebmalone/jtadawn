@@ -2,6 +2,7 @@
   "sections": {
     "1639454140d7479252": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "1639454140cea39157-0": {
           "type": "heading",
@@ -36,9 +37,8 @@
         "1639454140cea39157-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/japanese_starter_set-_black_2890x_1ad76409-b126-477f-aea6-49beff630600.jpg",
-        "image_2": "shopify:\/\/shop_images\/giftcard-bg.jpg",
-        "adapt_height_first_image": false,
+        "image": "shopify:\/\/shop_images\/105974858_759505968123424_6235374341641700641_n.jpg",
+        "adapt_height_first_image": true,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
         "image_overlay_opacity": 0,
