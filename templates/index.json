@@ -2,6 +2,7 @@
   "sections": {
     "1640490560901f9aa8": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1640490560ae91463e-0": {
           "type": "heading",
@@ -271,6 +272,7 @@
     },
     "164044354357bb1622": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Boxing Day Specials - 15% off all saws",
         "collection": "saws-boxing-day-sale",
@@ -287,6 +289,7 @@
     },
     "1635812071e4802376": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Boxing Day Specials - 15% off all Kakuri Planes",
         "collection": "kakuri-planes-boxing-day-sale",
@@ -358,6 +361,7 @@
     },
     "1640442342d5a2f857": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Boxing Day Specials - 15% off all hybrid chisels",
         "collection": "hybrid-chisels-boxing-day-sale",
