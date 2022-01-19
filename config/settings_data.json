@@ -32,9 +32,8 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Showroom open by appointment.",
+              "text": "Showroom open by appointment",
               "color_scheme": "background-2",
               "link": ""
             }
