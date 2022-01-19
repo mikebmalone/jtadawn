@@ -6,14 +6,12 @@
       "blocks": {
         "1640490560ae91463e-0": {
           "type": "heading",
-          "disabled": true,
           "settings": {
             "heading": "Boxing Day Sale"
           }
         },
         "1640490560ae91463e-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "<p>15% Off Washi<br\/>15% Off Saws<br\/>15% Off Kakuri Planes<br\/>15% Off Hybrid Chisels<\/p><p>And a T-Shirt.<\/p><p><\/p><p>More info below.<\/p>"
           }
