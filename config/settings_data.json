@@ -32,6 +32,7 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Boxing Day Sale Now On! 15% off All Saws, Kakuri Planes, Hybrid Chisels and Washi!",
               "color_scheme": "background-2",
@@ -41,7 +42,7 @@
           "824ccfa2-885f-46da-a8ec-d02edc7c650a": {
             "type": "announcement",
             "settings": {
-              "text": "Mailing Out Every Work Day in Dec and Jan",
+              "text": "Mailing Out Every Work Day in January",
               "color_scheme": "accent-1",
               "link": "shopify:\/\/pages\/jta-hq"
             }
