@@ -25,9 +25,9 @@
     "163347877144fc0534": {
       "type": "featured-collection",
       "settings": {
-        "title": "Christmas Gift Ideas",
-        "collection": "christmas-gift-ideas",
-        "products_to_show": 12,
+        "title": "Back in Stock",
+        "collection": "back-in-stock",
+        "products_to_show": 4,
         "show_view_all": false,
         "swipe_on_mobile": true,
         "image_ratio": "square",
