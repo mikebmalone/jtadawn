@@ -93,6 +93,7 @@
           "719b3f07-0ea1-4415-bf7d-8ba9c6320ad0": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/afterpay_logo_5402.jpg",
               "image_width": 200,
               "alignment": "center"
             }
