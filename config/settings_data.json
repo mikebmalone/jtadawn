@@ -58,10 +58,10 @@
         "type": "header",
         "settings": {
           "color_scheme": "accent-1",
-          "logo": "shopify:\/\/shop_images\/jta-logo_9b5929c0-0462-4fe1-9d34-714644ed1fc4.png",
+          "logo": "shopify:\/\/shop_images\/jta-logo_50x_2x_f58bc8be-854f-4b11-bc7d-16e4ee8f56dc.png",
           "logo_width": 50,
           "logo_position": "top-center",
-          "menu": "header-menu",
+          "menu": "main-menu",
           "show_line_separator": false,
           "enable_sticky_header": false
         }
@@ -80,7 +80,7 @@
             "type": "link_list",
             "settings": {
               "heading": "Help & Support",
-              "menu": "footer-menu"
+              "menu": ""
             }
           },
           "footer-1": {
@@ -93,7 +93,6 @@
           "719b3f07-0ea1-4415-bf7d-8ba9c6320ad0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/afterpay_logo_5402.jpg",
               "image_width": 200,
               "alignment": "center"
             }
@@ -118,15 +117,7 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "15796953133730294439": {
-        "type": "shopify:\/\/apps\/growave-loyalty-wishlist-3\/blocks\/block.embed.socialshopwave-helper\/b3d2efbe-110a-4e27-84a8-1f2ed63996a4",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Default": {
