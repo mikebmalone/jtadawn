@@ -58,10 +58,10 @@
         "type": "header",
         "settings": {
           "color_scheme": "accent-1",
-          "logo": "shopify:\/\/shop_images\/jta-logo_50x_2x_f58bc8be-854f-4b11-bc7d-16e4ee8f56dc.png",
+          "logo": "shopify:\/\/shop_images\/jta-logo_50x_2x_a99a4875-fc34-45c8-80ec-4af05979857d.png",
           "logo_width": 50,
           "logo_position": "top-center",
-          "menu": "main-menu",
+          "menu": "header-menu",
           "show_line_separator": false,
           "enable_sticky_header": false
         }
