@@ -71,6 +71,7 @@
         "blocks": {
           "footer-0": {
             "type": "link_list",
+            "disabled": true,
             "settings": {
               "heading": "JTA",
               "menu": "footer"
@@ -80,7 +81,7 @@
             "type": "link_list",
             "settings": {
               "heading": "Help & Support",
-              "menu": ""
+              "menu": "footer-menu"
             }
           },
           "footer-1": {
