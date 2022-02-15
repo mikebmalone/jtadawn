@@ -1,11 +1,97 @@
 {
   "sections": {
+    "1640442028ff1e9280": {
+      "type": "featured-product",
+      "blocks": {
+        "1640442028f914414d-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1640442028f914414d-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1640442028f914414d-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1640442028f914414d-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1640442028f914414d-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1640442028f914414d-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1640442028f914414d-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1640442028f914414d-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1640442028f914414d-0",
+        "1640442028f914414d-1",
+        "1640442028f914414d-2",
+        "1640442028f914414d-3",
+        "1640442028f914414d-4",
+        "1640442028f914414d-5",
+        "1640442028f914414d-6",
+        "1640442028f914414d-7"
+      ],
+      "settings": {
+        "product": "the-jta-hand-printed-tee",
+        "secondary_background": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "164044354357bb1622": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Gyokucho Saw Collection - February Free Shipping",
+        "collection": "gyokucho-free-shipping",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "1640490560901f9aa8": {
       "type": "image-with-text",
       "disabled": true,
       "blocks": {
         "1640490560ae91463e-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Boxing Day Sale"
           }
@@ -202,91 +288,6 @@
         "full_width": false
       }
     },
-    "1640442028ff1e9280": {
-      "type": "featured-product",
-      "blocks": {
-        "1640442028f914414d-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1640442028f914414d-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "1640442028f914414d-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1640442028f914414d-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1640442028f914414d-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1640442028f914414d-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "1640442028f914414d-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1640442028f914414d-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1640442028f914414d-0",
-        "1640442028f914414d-1",
-        "1640442028f914414d-2",
-        "1640442028f914414d-3",
-        "1640442028f914414d-4",
-        "1640442028f914414d-5",
-        "1640442028f914414d-6",
-        "1640442028f914414d-7"
-      ],
-      "settings": {
-        "product": "the-jta-hand-printed-tee",
-        "secondary_background": true,
-        "hide_variants": false,
-        "enable_video_looping": false
-      }
-    },
-    "164044354357bb1622": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Boxing Day Specials - 15% off all saws",
-        "collection": "saws-boxing-day-sale",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
-    },
     "1635812071e4802376": {
       "type": "featured-collection",
       "disabled": true,
@@ -465,6 +466,8 @@
     }
   },
   "order": [
+    "1640442028ff1e9280",
+    "164044354357bb1622",
     "1640490560901f9aa8",
     "1639454140d7479252",
     "image_banner",
@@ -472,8 +475,6 @@
     "16404370381106b261",
     "featured_products",
     "1640442025f0266c09",
-    "1640442028ff1e9280",
-    "164044354357bb1622",
     "1635812071e4802376",
     "1633478700e692e19b",
     "collage",
