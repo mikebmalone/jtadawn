@@ -68,9 +68,18 @@
         "enable_video_looping": false
       }
     },
+    "1640442025f0266c09": {
+      "type": "video",
+      "settings": {
+        "heading": "Limited Run of 100 Shirts",
+        "cover_image": "shopify:\/\/shop_images\/JTA_Shirt_Reveal.gif",
+        "video_url": "https:\/\/vimeo.com\/650769618",
+        "description": "",
+        "full_width": false
+      }
+    },
     "164044354357bb1622": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Gyokucho Saw Collection - February Free Shipping",
         "collection": "gyokucho-free-shipping",
@@ -278,16 +287,6 @@
         "show_rating": false
       }
     },
-    "1640442025f0266c09": {
-      "type": "video",
-      "settings": {
-        "heading": "Limited Run of 100 Shirts",
-        "cover_image": "shopify:\/\/shop_images\/JTA_Shirt_Reveal.gif",
-        "video_url": "https:\/\/vimeo.com\/650769618",
-        "description": "",
-        "full_width": false
-      }
-    },
     "1635812071e4802376": {
       "type": "featured-collection",
       "disabled": true,
@@ -467,6 +466,7 @@
   },
   "order": [
     "1640442028ff1e9280",
+    "1640442025f0266c09",
     "164044354357bb1622",
     "1640490560901f9aa8",
     "1639454140d7479252",
@@ -474,7 +474,6 @@
     "rich_text",
     "16404370381106b261",
     "featured_products",
-    "1640442025f0266c09",
     "1635812071e4802376",
     "1633478700e692e19b",
     "collage",
