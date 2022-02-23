@@ -94,6 +94,47 @@
         "show_rating": false
       }
     },
+    "1645576543569f0c6b": {
+      "type": "collage",
+      "blocks": {
+        "16455765437724c25f-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Laying_Down_Papers.gif",
+            "video_url": "https:\/\/vimeo.com\/652363251",
+            "description": "Washi Paper",
+            "image_padding": false
+          }
+        },
+        "16455765437724c25f-1": {
+          "type": "product",
+          "settings": {
+            "product": "art-paper-with-kozo-beige-single-sheet",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "16455765437724c25f-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "washi",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "16455765437724c25f-0",
+        "16455765437724c25f-1",
+        "16455765437724c25f-2"
+      ],
+      "settings": {
+        "heading": "More than paper",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
     "1640490560901f9aa8": {
       "type": "image-with-text",
       "disabled": true,
@@ -263,6 +304,7 @@
     },
     "16404370381106b261": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Handmade Washi Now Available at JTA",
         "cover_image": "shopify:\/\/shop_images\/Laying_Down_Papers.gif",
@@ -273,6 +315,7 @@
     },
     "featured_products": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "More than Paper",
         "collection": "washi",
@@ -468,6 +511,7 @@
     "1640442028ff1e9280",
     "1640442025f0266c09",
     "164044354357bb1622",
+    "1645576543569f0c6b",
     "1640490560901f9aa8",
     "1639454140d7479252",
     "image_banner",
