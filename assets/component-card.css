@@ -207,6 +207,7 @@
   flex-direction: column;
   position: relative;
   text-decoration: none;
+  margin-bottom:3rem;
 }
 
 .card-wrapper .card-information {
