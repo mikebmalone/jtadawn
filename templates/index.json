@@ -35,6 +35,41 @@
         "layout": "image_first"
       }
     },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Free Setup with every new Kitchen knife",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>This week only<\/strong>, we will be handing every new kitchen knife we sell to Nari-san to be ministered to before heading out to it's new owner - and <strong>we will pay<\/strong> the sharpening fee!<\/p>"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Add a knife and $18 sharpen to your cart to redeem.",
+            "button_link": "shopify:\/\/products\/kitchen-knife-initial-sharpen-by-hazuki-sharpening",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "1646217127ebecd0f6": {
       "type": "collage",
       "blocks": {
@@ -395,41 +430,6 @@
         "show_text_below": true
       }
     },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Free Setup with every new Kitchen knife",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>This week only<\/strong>, we will be handing every new kitchen knife we sell to Nari-san to be ministered to before heading out to it's new owner - and <strong>we will pay<\/strong> the sharpening fee!<\/p>"
-          }
-        },
-        "button": {
-          "type": "button",
-          "settings": {
-            "button_label": "Add a knife and a sharpen to your cart to redeem.",
-            "button_link": "shopify:\/\/products\/kitchen-knife-initial-sharpen-by-hazuki-sharpening",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text",
-        "button"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
     "1633478700e692e19b": {
       "type": "featured-blog",
       "settings": {
@@ -588,10 +588,60 @@
         "color_scheme": "background-1",
         "full_width": false
       }
+    },
+    "1646217906ad3ebe3d": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1646217906a650753b-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1646217906a650753b-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1646217906a650753b-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1646217906a650753b-0",
+        "1646217906a650753b-1",
+        "1646217906a650753b-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
     }
   },
   "order": [
     "1640490560901f9aa8",
+    "rich_text",
     "1646217127ebecd0f6",
     "16404370381106b261",
     "164044354357bb1622",
@@ -603,12 +653,12 @@
     "16455766065292c4ae",
     "1639454140d7479252",
     "image_banner",
-    "rich_text",
     "1633478700e692e19b",
     "collage",
     "1640442342d5a2f857",
     "163392785340acd066",
     "1633935714431a2bf0",
-    "16339295346bea512a"
+    "16339295346bea512a",
+    "1646217906ad3ebe3d"
   ]
 }
