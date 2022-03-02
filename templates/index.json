@@ -1,5 +1,40 @@
 {
   "sections": {
+    "1640490560901f9aa8": {
+      "type": "image-with-text",
+      "blocks": {
+        "1640490560ae91463e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Knife Sharpening @ JTA"
+          }
+        },
+        "1640490560ae91463e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are proud to host Nari Watabe-san of Hazuki Knife Sharpening at our Workshop. <br\/><br\/>Click below to have your knives cared for by a master.<\/p>"
+          }
+        },
+        "1640490560ae91463e-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Hazuki Knife Sharpening",
+            "button_link": "shopify:\/\/pages\/professional-knife-sharpener-nari-watabe-san-of"
+          }
+        }
+      },
+      "block_order": [
+        "1640490560ae91463e-0",
+        "1640490560ae91463e-1",
+        "1640490560ae91463e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hazuki_Sharpening_-_Square_-_57.jpg",
+        "height": "large",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
     "16455766065292c4ae": {
       "type": "image-banner",
       "blocks": {
@@ -179,41 +214,6 @@
         "heading": "More than paper",
         "desktop_layout": "left",
         "mobile_layout": "collage"
-      }
-    },
-    "1640490560901f9aa8": {
-      "type": "image-with-text",
-      "blocks": {
-        "1640490560ae91463e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Knife Sharpening @ JTA"
-          }
-        },
-        "1640490560ae91463e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We are proud to host Nari Watabe-san of Hazuki Knife Sharpening at our Workshop. <br\/><br\/>Click below to have your knives cared for by a master.<\/p>"
-          }
-        },
-        "1640490560ae91463e-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Hazuki Knife Sharpening",
-            "button_link": "shopify:\/\/pages\/professional-knife-sharpener-nari-watabe-san-of"
-          }
-        }
-      },
-      "block_order": [
-        "1640490560ae91463e-0",
-        "1640490560ae91463e-1",
-        "1640490560ae91463e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Hazuki_Sharpening_-_Square_-_57.jpg",
-        "height": "large",
-        "color_scheme": "inverse",
-        "layout": "image_first"
       }
     },
     "1639454140d7479252": {
@@ -551,12 +551,12 @@
     }
   },
   "order": [
+    "1640490560901f9aa8",
     "16455766065292c4ae",
     "164044354357bb1622",
     "1640442028ff1e9280",
     "1640442025f0266c09",
     "1645576543569f0c6b",
-    "1640490560901f9aa8",
     "1639454140d7479252",
     "image_banner",
     "rich_text",
