@@ -1,21 +1,5 @@
 {
   "sections": {
-    "1640442342d5a2f857": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "This Week's Special - 15% off Shinogi Nomi",
-        "collection": "shinogi-nomi-dovetail-chisels",
-        "products_to_show": 8,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
-    },
     "1640490560901f9aa8": {
       "type": "image-with-text",
       "blocks": {
@@ -28,7 +12,7 @@
         "1640490560ae91463e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>This week only we are offering 15% off our beautiful shinogi nomi dovetail cheisels - including a very limited number of 10 piece sets!<\/p>"
+            "text": "<p>This week only we are offering 15% off our beautiful shinogi nomi dovetail chisels - including a very limited number of 10 piece sets!<\/p>"
           }
         },
         "1640490560ae91463e-2": {
@@ -49,6 +33,22 @@
         "height": "large",
         "color_scheme": "inverse",
         "layout": "image_first"
+      }
+    },
+    "1640442342d5a2f857": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "This Week's Special - 15% off Shinogi Nomi",
+        "collection": "shinogi-nomi-dovetail-chisels",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
       }
     },
     "rich_text": {
@@ -149,7 +149,7 @@
         "16462543366e2968a9-7"
       ],
       "settings": {
-        "product": "kitchen-knife-initial-sharpen-by-hazuki-sharpening",
+        "product": "shinogi-nomi-10-pcs-set",
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false
@@ -227,6 +227,7 @@
     },
     "featured_products": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Kitchen Knives",
         "collection": "kitchen-knives",
@@ -243,6 +244,7 @@
     },
     "1635812071e4802376": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Discounts on Pre-Order Favourites",
         "collection": "gosho-knives",
@@ -660,8 +662,8 @@
     }
   },
   "order": [
-    "1640442342d5a2f857",
     "1640490560901f9aa8",
+    "1640442342d5a2f857",
     "rich_text",
     "16462543368f7dd8b1",
     "1646217127ebecd0f6",
