@@ -1,25 +1,41 @@
 {
   "sections": {
+    "1640442342d5a2f857": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "This Week's Special - 15% off Shinogi Nomi",
+        "collection": "shinogi-nomi-dovetail-chisels",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "1640490560901f9aa8": {
       "type": "image-with-text",
       "blocks": {
         "1640490560ae91463e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Knife Sharpening @ JTA"
+            "heading": "Shinogis on special"
           }
         },
         "1640490560ae91463e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>We are proud to host Nari Watabe-san of Hazuki Knife Sharpening at our workshop on a regular basis. <br\/><br\/>Click below to have your knives cared for by a master.<\/p>"
+            "text": "<p>This week only we are offering 15% off our beautiful shinogi nomi dovetail cheisels - including a very limited number of 10 piece sets!<\/p>"
           }
         },
         "1640490560ae91463e-2": {
           "type": "button",
           "settings": {
-            "button_label": "Hazuki Knife Sharpening",
-            "button_link": "shopify:\/\/pages\/professional-knife-sharpener-nari-watabe-san-of"
+            "button_label": "View all Shinogis",
+            "button_link": "shopify:\/\/collections\/shinogi-nomi-dovetail-chisels"
           }
         }
       },
@@ -29,7 +45,7 @@
         "1640490560ae91463e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Hazuki_Sharpening_-_Square_-_57.jpg",
+        "image": "shopify:\/\/shop_images\/Cerax_3000_500_Strokes_from_Cerax_1000-2.jpg",
         "height": "large",
         "color_scheme": "inverse",
         "layout": "image_first"
@@ -37,6 +53,7 @@
     },
     "rich_text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -554,22 +571,6 @@
         "mobile_layout": "collage"
       }
     },
-    "1640442342d5a2f857": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "This Week's Special - 15% off Shinogi Nomi",
-        "collection": "shinogi-nomi-dovetail-chisels",
-        "products_to_show": 8,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
-    },
     "163392785340acd066": {
       "type": "featured-blog",
       "settings": {
@@ -659,6 +660,7 @@
     }
   },
   "order": [
+    "1640442342d5a2f857",
     "1640490560901f9aa8",
     "rich_text",
     "16462543368f7dd8b1",
@@ -675,7 +677,6 @@
     "image_banner",
     "1633478700e692e19b",
     "collage",
-    "1640442342d5a2f857",
     "163392785340acd066",
     "1633935714431a2bf0",
     "16339295346bea512a"
