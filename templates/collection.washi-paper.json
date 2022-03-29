@@ -7,6 +7,16 @@
         "show_collection_image": true
       }
     },
+    "16485149274180a559": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "Video",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -41,6 +51,7 @@
   },
   "order": [
     "banner",
+    "16485149274180a559",
     "product-grid",
     "163347877144fc0534"
   ]
