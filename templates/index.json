@@ -75,11 +75,12 @@
         "1640490560ae91463e-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Workshop is warming up"
+            "heading": "Japan's finest tools"
           }
         },
         "1640490560ae91463e-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>We are very happy to welcome students back to our workshop for the first time in almost 12 months!<\/p>"
           }
@@ -99,7 +100,7 @@
         "1640490560ae91463e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Lamp_01038_1.jpg",
+        "image": "shopify:\/\/shop_images\/greg-setting-up-japanese-plane.jpg",
         "height": "large",
         "color_scheme": "inverse",
         "layout": "image_first"
@@ -109,7 +110,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Classes are back at JTA!",
-        "collection": "jta-workshops",
+        "collection": "japanese-saws",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
