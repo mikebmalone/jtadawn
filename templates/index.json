@@ -75,13 +75,13 @@
         "1640490560ae91463e-0": {
           "type": "heading",
           "settings": {
-            "heading": "Japan's finest tools"
+            "heading": "Mother's Day Specials"
           }
         },
         "1640490560ae91463e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>What will you make?<\/p>"
+            "text": "<p>Give mum a gift that will make her smile.<\/p>"
           }
         },
         "1640490560ae91463e-2": {
@@ -99,10 +99,10 @@
         "1640490560ae91463e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/greg-setting-up-japanese-plane.jpg",
+        "image": "shopify:\/\/shop_images\/Mum_s_Japanese_Secateurs_Kit-4.jpg",
         "height": "large",
-        "color_scheme": "inverse",
-        "layout": "image_first"
+        "color_scheme": "background-1",
+        "layout": "text_first"
       }
     },
     "1640442342d5a2f857": {
