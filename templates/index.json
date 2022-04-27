@@ -99,10 +99,10 @@
         "1640490560ae91463e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Mum_s_Japanese_Secateurs_Kit-4.jpg",
-        "height": "large",
+        "image": "shopify:\/\/shop_images\/Anna_Sawing.jpg",
+        "height": "adapt",
         "color_scheme": "background-1",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     },
     "1640442342d5a2f857": {
