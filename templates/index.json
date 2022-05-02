@@ -1,8 +1,43 @@
 {
   "sections": {
+    "1640490560901f9aa8": {
+      "type": "image-with-text",
+      "blocks": {
+        "1640490560ae91463e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mother's Day Specials"
+          }
+        },
+        "1640490560ae91463e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give mum a gift that will make her smile.<\/p>"
+          }
+        },
+        "1640490560ae91463e-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "View all Shinogis",
+            "button_link": "shopify:\/\/collections\/shinogi-nomi-dovetail-chisels"
+          }
+        }
+      },
+      "block_order": [
+        "1640490560ae91463e-0",
+        "1640490560ae91463e-1",
+        "1640490560ae91463e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Anna_Sawing.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
     "16462543368f7dd8b1": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "16462543366e2968a9-0": {
           "type": "text",
@@ -63,46 +98,10 @@
         "16462543366e2968a9-7"
       ],
       "settings": {
-        "product": "japanese-joinery-dojo-with-hiroshi-yamaguchi-deposit",
+        "product": "mums-tool-kit",
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false
-      }
-    },
-    "1640490560901f9aa8": {
-      "type": "image-with-text",
-      "blocks": {
-        "1640490560ae91463e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Mother's Day Specials"
-          }
-        },
-        "1640490560ae91463e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Give mum a gift that will make her smile.<\/p>"
-          }
-        },
-        "1640490560ae91463e-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "View all Shinogis",
-            "button_link": "shopify:\/\/collections\/shinogi-nomi-dovetail-chisels"
-          }
-        }
-      },
-      "block_order": [
-        "1640490560ae91463e-0",
-        "1640490560ae91463e-1",
-        "1640490560ae91463e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Anna_Sawing.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
       }
     },
     "1640442342d5a2f857": {
@@ -664,8 +663,8 @@
     }
   },
   "order": [
-    "16462543368f7dd8b1",
     "1640490560901f9aa8",
+    "16462543368f7dd8b1",
     "1640442342d5a2f857",
     "rich_text",
     "1646217127ebecd0f6",
