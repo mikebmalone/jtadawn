@@ -213,8 +213,8 @@
       "type": "featured-collection",
       "disabled": true,
       "settings": {
-        "title": "Gyokucho Saw Collection - February Free Shipping",
-        "collection": "gyokucho-free-shipping",
+        "title": "Ryoba Saw",
+        "collection": "ryoba-saws",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
