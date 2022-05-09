@@ -209,57 +209,6 @@
         "full_width": false
       }
     },
-    "164044354357bb1622": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Ryoba Saw",
-        "collection": "ryoba-saws",
-        "products_to_show": 8,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "portrait",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": true
-      }
-    },
-    "featured_products": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Kitchen Knives",
-        "collection": "kitchen-knives",
-        "products_to_show": 8,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
-    },
-    "1635812071e4802376": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Discounts on Pre-Order Favourites",
-        "collection": "gosho-knives",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": true,
-        "show_rating": true
-      }
-    },
     "1640442028ff1e9280": {
       "type": "featured-product",
       "blocks": {
@@ -326,6 +275,56 @@
         "secondary_background": true,
         "hide_variants": false,
         "enable_video_looping": false
+      }
+    },
+    "164044354357bb1622": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Ryoba Saw",
+        "collection": "ryoba-saws",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Kitchen Knives",
+        "collection": "kitchen-knives",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1635812071e4802376": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Discounts on Pre-Order Favourites",
+        "collection": "gosho-knives",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true,
+        "show_rating": true
       }
     },
     "1640442025f0266c09": {
@@ -738,10 +737,10 @@
     "rich_text",
     "1646217127ebecd0f6",
     "16404370381106b261",
+    "1640442028ff1e9280",
     "164044354357bb1622",
     "featured_products",
     "1635812071e4802376",
-    "1640442028ff1e9280",
     "1640442025f0266c09",
     "1645576543569f0c6b",
     "16455766065292c4ae",
