@@ -6,13 +6,13 @@
         "1640490560ae91463e-0": {
           "type": "heading",
           "settings": {
-            "heading": "JTA is Heading to The Merribee Topiary & Hedging Festival"
+            "heading": "enjoy the carving world with jta"
           }
         },
         "1640490560ae91463e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Join us this weekend 14th & 15th of May. <\/p><p>8.30am to 3.30pm<\/p>"
+            "text": "<p>Showroom Opening Hours  9-4pm<\/p>"
           }
         },
         "1640490560ae91463e-2": {
@@ -30,7 +30,7 @@
         "1640490560ae91463e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/merribee1.jpg",
+        "image": "shopify:\/\/shop_images\/Carving_Mokuhanga00093.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -98,7 +98,7 @@
         "16462543366e2968a9-7"
       ],
       "settings": {
-        "product": "hedge-shears-180mm-aogami-blade",
+        "product": "chicky-5-piece-carving-set",
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false
@@ -107,8 +107,8 @@
     "1640442342d5a2f857": {
       "type": "featured-collection",
       "settings": {
-        "title": "hedge shears",
-        "collection": "hedge-shears",
+        "title": "STILETTO Chisels",
+        "collection": "stiletto-hss-chisels",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
