@@ -6,13 +6,13 @@
         "1640490560ae91463e-0": {
           "type": "heading",
           "settings": {
-            "heading": "enjoy the carving world with jta"
+            "heading": "Toyo steel"
           }
         },
         "1640490560ae91463e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Showroom Opening Hours  9-4pm<\/p>"
+            "text": "<p>Made in Japan since 1969 <\/p><p> Showroom Opening Hours  9-5pm<\/p>"
           }
         },
         "1640490560ae91463e-2": {
@@ -30,7 +30,7 @@
         "1640490560ae91463e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Carving_Mokuhanga00093.jpg",
+        "image": "shopify:\/\/shop_images\/Toyo_Steel-high.gif",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
