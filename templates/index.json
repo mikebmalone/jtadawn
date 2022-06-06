@@ -1,5 +1,15 @@
 {
   "sections": {
+    "1654523213f927a84f": {
+      "type": "video",
+      "settings": {
+        "heading": "Knock Out Some Dovetails this EOFY",
+        "cover_image": "shopify:\/\/shop_images\/Dovvies_1.47.1.png",
+        "video_url": "https:\/\/vimeo.com\/717509488\/e09b3424e7",
+        "description": "",
+        "full_width": false
+      }
+    },
     "1640490560901f9aa8": {
       "type": "image-with-text",
       "blocks": {
@@ -728,19 +738,10 @@
         "color_scheme": "background-1",
         "full_width": false
       }
-    },
-    "1654523213f927a84f": {
-      "type": "video",
-      "settings": {
-        "heading": "Knock Out Some Dovetails this EOFY",
-        "cover_image": "shopify:\/\/shop_images\/Dovvies_1.47.1.png",
-        "video_url": "https:\/\/vimeo.com\/717509488\/e09b3424e7",
-        "description": "",
-        "full_width": false
-      }
     }
   },
   "order": [
+    "1654523213f927a84f",
     "1640490560901f9aa8",
     "16462543368f7dd8b1",
     "1640442342d5a2f857",
@@ -761,7 +762,6 @@
     "collage",
     "163392785340acd066",
     "1633935714431a2bf0",
-    "16339295346bea512a",
-    "1654523213f927a84f"
+    "16339295346bea512a"
   ]
 }
