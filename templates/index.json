@@ -303,12 +303,57 @@
         "show_rating": true
       }
     },
+    "1639454140d7479252": {
+      "type": "image-banner",
+      "blocks": {
+        "1639454140cea39157-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Suehiro Fine Finishing Waterstones",
+            "heading_size": "medium"
+          }
+        },
+        "1639454140cea39157-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1639454140cea39157-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Christmas Gift Ideas",
+            "button_link_1": "shopify:\/\/collections\/christmas-gift-ideas",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1639454140cea39157-0",
+        "1639454140cea39157-1",
+        "1639454140cea39157-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Shiny_GIF-high.gif",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "flex-end",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "inverse",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
-        "title": "Kitchen Knives",
-        "collection": "kitchen-knives",
+        "title": "",
+        "collection": "suehiro-fine-finishing-waterstones",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
@@ -503,53 +548,6 @@
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false
-      }
-    },
-    "1639454140d7479252": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "1639454140cea39157-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "🎄  Christmas Gift Ideas",
-            "heading_size": "medium"
-          }
-        },
-        "1639454140cea39157-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "1639454140cea39157-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Christmas Gift Ideas",
-            "button_link_1": "shopify:\/\/collections\/christmas-gift-ideas",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1639454140cea39157-0",
-        "1639454140cea39157-1",
-        "1639454140cea39157-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/105974858_759505968123424_6235374341641700641_n.jpg",
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "flex-end",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "inverse",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "image_banner": {
@@ -750,13 +748,13 @@
     "16404370381106b261",
     "1640442028ff1e9280",
     "164044354357bb1622",
+    "1639454140d7479252",
     "featured_products",
     "1635812071e4802376",
     "1640442025f0266c09",
     "1645576543569f0c6b",
     "16455766065292c4ae",
     "1651456182bdf00211",
-    "1639454140d7479252",
     "image_banner",
     "1633478700e692e19b",
     "collage",
