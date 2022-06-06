@@ -350,6 +350,16 @@
         "show_text_below": true
       }
     },
+    "1654532570209fb00b": {
+      "type": "video",
+      "settings": {
+        "heading": "Suehiro Fine Finish Waterstones",
+        "cover_image": "shopify:\/\/shop_images\/Shiny_GIF-high.gif",
+        "video_url": "https:\/\/vimeo.com\/717550822",
+        "description": "",
+        "full_width": false
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -737,16 +747,6 @@
         "color_scheme": "background-1",
         "full_width": false
       }
-    },
-    "1654532570209fb00b": {
-      "type": "video",
-      "settings": {
-        "heading": "Suehiro Fine Finish Waterstones",
-        "cover_image": "shopify:\/\/shop_images\/Shiny_GIF-high.gif",
-        "video_url": "https:\/\/vimeo.com\/717550822",
-        "description": "",
-        "full_width": false
-      }
     }
   },
   "order": [
@@ -760,6 +760,7 @@
     "1640442028ff1e9280",
     "164044354357bb1622",
     "1639454140d7479252",
+    "1654532570209fb00b",
     "featured_products",
     "1635812071e4802376",
     "1640442025f0266c09",
@@ -771,7 +772,6 @@
     "collage",
     "163392785340acd066",
     "1633935714431a2bf0",
-    "16339295346bea512a",
-    "1654532570209fb00b"
+    "16339295346bea512a"
   ]
 }
