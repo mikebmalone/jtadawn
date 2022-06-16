@@ -287,22 +287,6 @@
         "enable_video_looping": false
       }
     },
-    "164044354357bb1622": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "The Square - The Carpenter's Spine",
-        "collection": "sashigane-squares",
-        "products_to_show": 8,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "portrait",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": true
-      }
-    },
     "1639454140d7479252": {
       "type": "image-banner",
       "disabled": true,
@@ -353,11 +337,27 @@
     "1654532570209fb00b": {
       "type": "video",
       "settings": {
-        "heading": "Suehiro Fine Finish Waterstones",
-        "cover_image": "shopify:\/\/shop_images\/Shiny_GIF-high.gif",
-        "video_url": "https:\/\/vimeo.com\/717550822",
+        "heading": "How to Use a Sashigane",
+        "cover_image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_5.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=ZIjNaaPh5FQ",
         "description": "",
         "full_width": false
+      }
+    },
+    "164044354357bb1622": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "The Square - The Carpenter's Spine",
+        "collection": "sashigane-squares",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
       }
     },
     "featured_products": {
@@ -757,9 +757,9 @@
     "1646217127ebecd0f6",
     "16404370381106b261",
     "1640442028ff1e9280",
-    "164044354357bb1622",
     "1639454140d7479252",
     "1654532570209fb00b",
+    "164044354357bb1622",
     "featured_products",
     "1635812071e4802376",
     "1640442025f0266c09",
