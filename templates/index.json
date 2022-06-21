@@ -49,6 +49,7 @@
     },
     "16462543368f7dd8b1": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "16462543366e2968a9-0": {
           "type": "text",
@@ -118,7 +119,7 @@
     "1640442342d5a2f857": {
       "type": "featured-collection",
       "settings": {
-        "title": "Measure Up",
+        "title": "ALL SHINWA 20% OFF",
         "collection": "rulers-tapes",
         "products_to_show": 8,
         "show_view_all": true,
