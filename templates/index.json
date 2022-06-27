@@ -365,8 +365,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Angling for Accuracy",
-        "collection": "angles-and-degrees",
+        "title": "Marking Knives",
+        "collection": "marking-knives",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
