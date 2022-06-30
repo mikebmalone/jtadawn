@@ -355,8 +355,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Sharpening",
-        "collection": "sharpening",
+        "title": "pick & mattocks",
+        "collection": "picks-and-mattocks",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
