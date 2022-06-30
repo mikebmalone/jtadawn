@@ -336,16 +336,6 @@
         "show_text_below": true
       }
     },
-    "1654532570209fb00b": {
-      "type": "video",
-      "settings": {
-        "heading": "How to Use a Sashigane",
-        "cover_image": "shopify:\/\/shop_images\/ezgif.com-gif-maker_5.jpg",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=ZIjNaaPh5FQ",
-        "description": "",
-        "full_width": false
-      }
-    },
     "164044354357bb1622": {
       "type": "featured-collection",
       "settings": {
@@ -760,7 +750,6 @@
     "16404370381106b261",
     "1640442028ff1e9280",
     "1639454140d7479252",
-    "1654532570209fb00b",
     "164044354357bb1622",
     "featured_products",
     "1635812071e4802376",
