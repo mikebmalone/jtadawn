@@ -355,8 +355,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Marking Knives",
-        "collection": "marking-knives",
+        "title": "Sharpening",
+        "collection": "sharpening",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
