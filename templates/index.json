@@ -340,7 +340,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Axes & Adzes",
-        "collection": "axes",
+        "collection": "secateurs",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
@@ -355,8 +355,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "pick & mattocks",
-        "collection": "picks-and-mattocks",
+        "title": "Bonsai Tools",
+        "collection": "bonsai-tools",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
@@ -371,9 +371,9 @@
     "1635812071e4802376": {
       "type": "featured-collection",
       "settings": {
-        "title": "Bonsai tools",
-        "collection": "bonsai-tools",
-        "products_to_show": 4,
+        "title": "Gardening Accessories",
+        "collection": "gardening-accessories",
+        "products_to_show": 12,
         "show_view_all": true,
         "swipe_on_mobile": true,
         "image_ratio": "square",
