@@ -341,7 +341,7 @@
       "settings": {
         "title": "Secateurs",
         "collection": "secateurs",
-        "products_to_show": 8,
+        "products_to_show": 12,
         "show_view_all": true,
         "swipe_on_mobile": true,
         "image_ratio": "portrait",
@@ -357,7 +357,7 @@
       "settings": {
         "title": "Bonsai Tools",
         "collection": "bonsai-tools",
-        "products_to_show": 8,
+        "products_to_show": 12,
         "show_view_all": true,
         "swipe_on_mobile": true,
         "image_ratio": "square",
