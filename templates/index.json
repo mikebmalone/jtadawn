@@ -118,6 +118,7 @@
     },
     "1640442342d5a2f857": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "gardening sickles",
         "collection": "gardening-sickles",
@@ -221,6 +222,22 @@
         "full_width": false
       }
     },
+    "164044354357bb1622": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Secateurs",
+        "collection": "secateurs",
+        "products_to_show": 10,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
+      }
+    },
     "1640442028ff1e9280": {
       "type": "featured-product",
       "blocks": {
@@ -283,7 +300,7 @@
         "1640442028f914414d-7"
       ],
       "settings": {
-        "product": "bonsai-8-pieces-tool-set-by-kikuwa",
+        "product": "japanese-planting-weeding-set",
         "secondary_background": true,
         "hide_variants": false,
         "enable_video_looping": false
@@ -336,28 +353,12 @@
         "show_text_below": true
       }
     },
-    "164044354357bb1622": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Secateurs",
-        "collection": "secateurs",
-        "products_to_show": 12,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "portrait",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": true
-      }
-    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
         "title": "Bonsai Tools",
         "collection": "bonsai-tools",
-        "products_to_show": 12,
+        "products_to_show": 10,
         "show_view_all": true,
         "swipe_on_mobile": true,
         "image_ratio": "square",
@@ -373,7 +374,7 @@
       "settings": {
         "title": "Gardening Accessories",
         "collection": "gardening-accessories",
-        "products_to_show": 12,
+        "products_to_show": 10,
         "show_view_all": true,
         "swipe_on_mobile": true,
         "image_ratio": "square",
@@ -748,9 +749,9 @@
     "rich_text",
     "1646217127ebecd0f6",
     "16404370381106b261",
+    "164044354357bb1622",
     "1640442028ff1e9280",
     "1639454140d7479252",
-    "164044354357bb1622",
     "featured_products",
     "1635812071e4802376",
     "1640442025f0266c09",
