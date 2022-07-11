@@ -225,8 +225,8 @@
     "164044354357bb1622": {
       "type": "featured-collection",
       "settings": {
-        "title": "Secateurs",
-        "collection": "secateurs",
+        "title": "Toolboxes",
+        "collection": "toyo-steel-toolboxes",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
