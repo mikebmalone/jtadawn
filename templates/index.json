@@ -17,13 +17,13 @@
         "1640490560ae91463e-0": {
           "type": "heading",
           "settings": {
-            "heading": "It's Garden Week"
+            "heading": "Toolbox week"
           }
         },
         "1640490560ae91463e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>As the JTA team are on the road this week, the showroom is closed. <\/p><p>Online orders however are still being dispatched daily!<\/p>"
+            "text": "<p>JTA OPENING HOURS<\/p><p>MON FRI 9AM-5PM<\/p>"
           }
         },
         "1640490560ae91463e-2": {
@@ -41,7 +41,7 @@
         "1640490560ae91463e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/JTA_Heading_to_the_Queensland_Garden_Expo_at_the_Nambour_Showgrounds.png",
+        "image": "shopify:\/\/shop_images\/18_08.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
