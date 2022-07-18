@@ -636,7 +636,7 @@
         "collection": {
           "type": "collection",
           "settings": {
-            "collection": "japanese-bench-chisels",
+            "collection": "carving-sets",
             "image_padding": false,
             "color_scheme": "background-1"
           }
