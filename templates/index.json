@@ -41,7 +41,7 @@
         "1640490560ae91463e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/18_08.jpg",
+        "image": "shopify:\/\/shop_images\/photo_00438.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -300,7 +300,7 @@
         "1640442028f914414d-7"
       ],
       "settings": {
-        "product": "high-handle-steel-two-stage-toolbox-35cm-blue",
+        "product": "chopstick-maker-jig",
         "secondary_background": true,
         "hide_variants": false,
         "enable_video_looping": false
@@ -356,8 +356,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Back in stock",
-        "collection": "back-in-stock",
+        "title": "Waterstones",
+        "collection": "suehiro-cerax-waterstones",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
