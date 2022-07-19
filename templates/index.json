@@ -372,9 +372,9 @@
     "1635812071e4802376": {
       "type": "featured-collection",
       "settings": {
-        "title": "Chisels",
+        "title": "Marking Knives",
         "collection": "marking-knives",
-        "products_to_show": 10,
+        "products_to_show": 6,
         "show_view_all": true,
         "swipe_on_mobile": true,
         "image_ratio": "square",
