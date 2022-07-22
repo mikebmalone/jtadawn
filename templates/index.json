@@ -300,7 +300,7 @@
         "165145618200d653d7-7"
       ],
       "settings": {
-        "product": "japanese-starter-toolbox",
+        "product": "stackable-parts-tray-clear-coated",
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false
@@ -356,8 +356,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Waterstones",
-        "collection": "suehiro-cerax-waterstones",
+        "title": "Toyo STEEL tOOLBOXES",
+        "collection": "toyo-steel-toolboxes",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
