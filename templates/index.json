@@ -226,8 +226,8 @@
       "type": "featured-collection",
       "settings": {
         "title": "New Toolboxes",
-        "collection": "toyo-steel-toolboxes",
-        "products_to_show": 8,
+        "collection": "storage",
+        "products_to_show": 12,
         "show_view_all": true,
         "swipe_on_mobile": true,
         "image_ratio": "portrait",
