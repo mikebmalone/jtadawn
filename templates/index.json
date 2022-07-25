@@ -356,8 +356,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Toyo STEEL tOOLBOXES",
-        "collection": "toyo-steel-toolboxes",
+        "title": "SCISSORS & CUTTERS",
+        "collection": "scissors-cutters",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
