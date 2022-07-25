@@ -356,7 +356,7 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "SCISSORS & CUTTERS",
+        "title": "NEW SCISSORS & CUTTERS",
         "collection": "scissors-cutters",
         "products_to_show": 8,
         "show_view_all": true,
