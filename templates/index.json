@@ -441,7 +441,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "RYOBA saw",
-        "collection": "ryoba-saws",
+        "collection": "mini-planes",
         "products_to_show": 6,
         "show_view_all": true,
         "swipe_on_mobile": true,
