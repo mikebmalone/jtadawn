@@ -17,13 +17,13 @@
         "1640490560ae91463e-0": {
           "type": "heading",
           "settings": {
-            "heading": "New MINIATURE TOOLBOXes"
+            "heading": "The Sydney Knife Show"
           }
         },
         "1640490560ae91463e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>JTA OPENING HOURS<\/p><p>MON - FRI 9AM-5PM<\/p>"
+            "text": "<p>Come visit the JTA stand <\/p><p>SAT 6th - SUN 7th AUG<\/p>"
           }
         },
         "1640490560ae91463e-2": {
@@ -41,7 +41,7 @@
         "1640490560ae91463e-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Mini_Toolboxes-Pink_Red.jpg",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-01_at_1.51.07_pm.png",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
@@ -225,8 +225,8 @@
     "164044354357bb1622": {
       "type": "featured-collection",
       "settings": {
-        "title": "MINIATURE TOOLBOX",
-        "collection": "storage",
+        "title": "Kitchen Knives",
+        "collection": "kitchen-knives",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
@@ -300,7 +300,7 @@
         "165145618200d653d7-7"
       ],
       "settings": {
-        "product": "nakaya-japanese-dozuki-dovetail-saw-set",
+        "product": "cerax-waterstone-by-suehiro-3-pcs-set",
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false
@@ -356,8 +356,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "NEW SCISSORS & CUTTERS",
-        "collection": "scissors-cutters",
+        "title": "Shapton Whetstone",
+        "collection": "shapton-sharpening",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
@@ -431,7 +431,7 @@
         "1640442028f914414d-7"
       ],
       "settings": {
-        "product": "tomo-netsuke-10-pcs-set",
+        "product": "kanaban-steel-lapping-plate",
         "secondary_background": true,
         "hide_variants": false,
         "enable_video_looping": false
@@ -440,8 +440,8 @@
     "1635812071e4802376": {
       "type": "featured-collection",
       "settings": {
-        "title": "MINI EBONY PLANEs",
-        "collection": "mini-planes",
+        "title": "STONE & TOOL MAINTENANCE",
+        "collection": "tool-stone-maintenance",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
