@@ -63,7 +63,7 @@
           "type": "video",
           "settings": {
             "cover_image": "shopify:\/\/shop_images\/Side-on_sharpening_square-high.gif",
-            "video_url": "https:\/\/vimeo.com\/683725383",
+            "video_url": "",
             "description": "HKS @ JTA",
             "image_padding": false
           }
@@ -87,75 +87,6 @@
         "heading": "",
         "desktop_layout": "right",
         "mobile_layout": "collage"
-      }
-    },
-    "16462543368f7dd8b1": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "16462543366e2968a9-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "16462543366e2968a9-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "16462543366e2968a9-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "16462543366e2968a9-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "16462543366e2968a9-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "16462543366e2968a9-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "16462543366e2968a9-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "16462543366e2968a9-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "16462543366e2968a9-0",
-        "16462543366e2968a9-1",
-        "16462543366e2968a9-2",
-        "16462543366e2968a9-3",
-        "16462543366e2968a9-4",
-        "16462543366e2968a9-5",
-        "16462543366e2968a9-6",
-        "16462543366e2968a9-7"
-      ],
-      "settings": {
-        "product": "circular-saw-parallel-rip-guide-60cm-double",
-        "secondary_background": false,
-        "hide_variants": false,
-        "enable_video_looping": false
       }
     },
     "1640442342d5a2f857": {
@@ -552,9 +483,77 @@
         "show_text_below": true
       }
     },
+    "16462543368f7dd8b1": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "16462543366e2968a9-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "16462543366e2968a9-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "16462543366e2968a9-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16462543366e2968a9-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16462543366e2968a9-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16462543366e2968a9-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16462543366e2968a9-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16462543366e2968a9-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16462543366e2968a9-0",
+        "16462543366e2968a9-1",
+        "16462543366e2968a9-2",
+        "16462543366e2968a9-3",
+        "16462543366e2968a9-4",
+        "16462543366e2968a9-5",
+        "16462543366e2968a9-6",
+        "16462543366e2968a9-7"
+      ],
+      "settings": {
+        "product": "knife-sharpening-workshop-with-nari-watabe-san-of-hazuki-sharpe",
+        "secondary_background": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
     "1639454140d7479252": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1639454140cea39157-0": {
           "type": "heading",
@@ -567,15 +566,15 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Sign up for notification on Knife Sharpening Workshop."
           }
         },
         "1639454140cea39157-2": {
           "type": "buttons",
           "disabled": true,
           "settings": {
-            "button_label_1": "Christmas Gift Ideas",
-            "button_link_1": "shopify:\/\/collections\/christmas-gift-ideas",
+            "button_label_1": "PROFESSIONAL KNIFE SHARPENER NARI WATABE-SAN OF HAZUKI SHARPENING",
+            "button_link_1": "",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -745,7 +744,6 @@
     "1654523213f927a84f",
     "1640490560901f9aa8",
     "1646217127ebecd0f6",
-    "16462543368f7dd8b1",
     "1640442342d5a2f857",
     "rich_text",
     "16404370381106b261",
@@ -758,6 +756,7 @@
     "1645576543569f0c6b",
     "16455766065292c4ae",
     "image_banner",
+    "16462543368f7dd8b1",
     "1639454140d7479252",
     "1633478700e692e19b",
     "collage",
