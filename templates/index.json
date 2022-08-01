@@ -308,12 +308,11 @@
     },
     "1639454140d7479252": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "1639454140cea39157-0": {
           "type": "heading",
           "settings": {
-            "heading": "Suehiro Fine Finishing Waterstones",
+            "heading": "CLASS with NARI-SAn",
             "heading_size": "medium"
           }
         },
@@ -343,7 +342,7 @@
         "1639454140cea39157-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Shiny_GIF-high.gif",
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-01_at_2.13.23_pm.png",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
