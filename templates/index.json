@@ -50,15 +50,6 @@
     "1646217127ebecd0f6": {
       "type": "collage",
       "blocks": {
-        "1646217127d064ca85-0": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/Side-on_sharpening_square-high.gif",
-            "video_url": "https:\/\/vimeo.com\/683725383",
-            "description": "HKS @ JTA",
-            "image_padding": false
-          }
-        },
         "1646217127d064ca85-1": {
           "type": "product",
           "settings": {
@@ -66,6 +57,15 @@
             "second_image": false,
             "image_padding": false,
             "secondary_background": false
+          }
+        },
+        "1646217127d064ca85-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Side-on_sharpening_square-high.gif",
+            "video_url": "https:\/\/vimeo.com\/683725383",
+            "description": "HKS @ JTA",
+            "image_padding": false
           }
         },
         "1646217127d064ca85-2": {
@@ -79,8 +79,8 @@
         }
       },
       "block_order": [
-        "1646217127d064ca85-0",
         "1646217127d064ca85-1",
+        "1646217127d064ca85-0",
         "1646217127d064ca85-2"
       ],
       "settings": {
@@ -304,52 +304,6 @@
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false
-      }
-    },
-    "1639454140d7479252": {
-      "type": "image-banner",
-      "blocks": {
-        "1639454140cea39157-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "CLASS with NARI-SAn",
-            "heading_size": "medium"
-          }
-        },
-        "1639454140cea39157-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "1639454140cea39157-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Christmas Gift Ideas",
-            "button_link_1": "shopify:\/\/collections\/christmas-gift-ideas",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1639454140cea39157-0",
-        "1639454140cea39157-1",
-        "1639454140cea39157-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-01_at_2.13.23_pm.png",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-end",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "inverse",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "featured_products": {
@@ -598,6 +552,53 @@
         "show_text_below": true
       }
     },
+    "1639454140d7479252": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "1639454140cea39157-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "CLASS with NARI-SAn",
+            "heading_size": "medium"
+          }
+        },
+        "1639454140cea39157-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1639454140cea39157-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Christmas Gift Ideas",
+            "button_link_1": "shopify:\/\/collections\/christmas-gift-ideas",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1639454140cea39157-0",
+        "1639454140cea39157-1",
+        "1639454140cea39157-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-01_at_2.13.23_pm.png",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "flex-end",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "inverse",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "1633478700e692e19b": {
       "type": "featured-blog",
       "settings": {
@@ -750,7 +751,6 @@
     "16404370381106b261",
     "164044354357bb1622",
     "1651456182bdf00211",
-    "1639454140d7479252",
     "featured_products",
     "1640442028ff1e9280",
     "1635812071e4802376",
@@ -758,6 +758,7 @@
     "1645576543569f0c6b",
     "16455766065292c4ae",
     "image_banner",
+    "1639454140d7479252",
     "1633478700e692e19b",
     "collage",
     "163392785340acd066",
