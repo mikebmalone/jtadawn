@@ -23,7 +23,7 @@
         "1640490560ae91463e-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Come visit the JTA stand <\/p><p>SAT 6th - SUN 7th AUG<\/p>"
+            "text": "<p>Come visit the JTA stand <\/p><p>SAT 6th - SUN 7th AUG <\/p><p>The Grand Pavillion,                  Rosehill Racecourse Gardens<\/p>"
           }
         },
         "1640490560ae91463e-2": {
@@ -45,6 +45,48 @@
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "text_first"
+      }
+    },
+    "1646217127ebecd0f6": {
+      "type": "collage",
+      "blocks": {
+        "1646217127d064ca85-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/Side-on_sharpening_square-high.gif",
+            "video_url": "https:\/\/vimeo.com\/683725383",
+            "description": "HKS @ JTA",
+            "image_padding": false
+          }
+        },
+        "1646217127d064ca85-1": {
+          "type": "product",
+          "settings": {
+            "product": "kitchen-knife-initial-sharpen-by-hazuki-sharpening",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "1646217127d064ca85-2": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "kitchen-knives",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1646217127d064ca85-0",
+        "1646217127d064ca85-1",
+        "1646217127d064ca85-2"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
       }
     },
     "16462543368f7dd8b1": {
@@ -167,48 +209,6 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
-      }
-    },
-    "1646217127ebecd0f6": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "1646217127d064ca85-0": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/Side-on_sharpening_square-high.gif",
-            "video_url": "https:\/\/vimeo.com\/683725383",
-            "description": "HKS @ JTA",
-            "image_padding": false
-          }
-        },
-        "1646217127d064ca85-1": {
-          "type": "product",
-          "settings": {
-            "product": "kitchen-knife-initial-sharpen-by-hazuki-sharpening",
-            "second_image": false,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
-        "1646217127d064ca85-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "kitchen-knives",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "1646217127d064ca85-0",
-        "1646217127d064ca85-1",
-        "1646217127d064ca85-2"
-      ],
-      "settings": {
-        "heading": "",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
       }
     },
     "16404370381106b261": {
@@ -744,10 +744,10 @@
   "order": [
     "1654523213f927a84f",
     "1640490560901f9aa8",
+    "1646217127ebecd0f6",
     "16462543368f7dd8b1",
     "1640442342d5a2f857",
     "rich_text",
-    "1646217127ebecd0f6",
     "16404370381106b261",
     "164044354357bb1622",
     "1651456182bdf00211",
