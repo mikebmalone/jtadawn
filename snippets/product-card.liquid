@@ -133,6 +133,13 @@
         {%- elsif product_card_product.compare_at_price > product_card_product.price and product_card_product.available -%}
           <span class="badge badge--bottom-left color-{{ settings.sale_badge_color_scheme }}">{{ 'products.product.on_sale' | t }}</span>
         {%- endif -%}
+
+        {% unless product.available %}
+  <a href="#" class="BIS_trigger" data-product-data="{{ product | json | escape }}">
+    Email when available
+  </a>
+{% endunless %}
+
       </div>
     </div>
   </div>
