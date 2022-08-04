@@ -739,6 +739,41 @@
         "color_scheme": "background-1",
         "full_width": false
       }
+    },
+    "165958457636ecb830": {
+      "type": "image-with-text",
+      "blocks": {
+        "1659584576f1e6fa57-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mirka = a dust free workshop"
+          }
+        },
+        "1659584576f1e6fa57-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Best Abrasives helps professionals all over Australia experience the amazing benefits of Mirka world-leading abrasives, tools and machinery for the industrial, commercial or home workshop.<\/p><p>Over the past thirty years, Mirka has grown into one of the world's largest producers of coated abrasives.<\/p><p>Today, Mirka offers a wide product range for individual operations and complete sanding systems for specialised applications.<\/p><p>Best Abrasives is proud to offer Mirka products to the Australian market.<\/p>"
+          }
+        },
+        "1659584576f1e6fa57-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1659584576f1e6fa57-0",
+        "1659584576f1e6fa57-1",
+        "1659584576f1e6fa57-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Mirka_Deos.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -763,6 +798,7 @@
     "collage",
     "163392785340acd066",
     "1633935714431a2bf0",
-    "16339295346bea512a"
+    "16339295346bea512a",
+    "165958457636ecb830"
   ]
 }
