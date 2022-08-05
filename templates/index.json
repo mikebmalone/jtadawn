@@ -207,6 +207,7 @@
     },
     "1651456182bdf00211": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "165145618200d653d7-0": {
           "type": "text",
@@ -652,6 +653,7 @@
     },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "video": {
           "type": "video",
