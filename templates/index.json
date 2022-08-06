@@ -170,6 +170,74 @@
         "show_rating": true
       }
     },
+    "16462543368f7dd8b1": {
+      "type": "featured-product",
+      "blocks": {
+        "16462543366e2968a9-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "16462543366e2968a9-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "16462543366e2968a9-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16462543366e2968a9-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16462543366e2968a9-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16462543366e2968a9-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16462543366e2968a9-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16462543366e2968a9-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16462543366e2968a9-0",
+        "16462543366e2968a9-1",
+        "16462543366e2968a9-2",
+        "16462543366e2968a9-3",
+        "16462543366e2968a9-4",
+        "16462543366e2968a9-5",
+        "16462543366e2968a9-6",
+        "16462543366e2968a9-7"
+      ],
+      "settings": {
+        "product": "hardwwod-leather-strop-large",
+        "secondary_background": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
     "1659662325d17d1589": {
       "type": "image-with-text",
       "blocks": {
@@ -521,75 +589,6 @@
         "show_text_below": true
       }
     },
-    "16462543368f7dd8b1": {
-      "type": "featured-product",
-      "disabled": true,
-      "blocks": {
-        "16462543366e2968a9-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "16462543366e2968a9-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "16462543366e2968a9-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "16462543366e2968a9-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "16462543366e2968a9-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "16462543366e2968a9-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "16462543366e2968a9-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "16462543366e2968a9-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "16462543366e2968a9-0",
-        "16462543366e2968a9-1",
-        "16462543366e2968a9-2",
-        "16462543366e2968a9-3",
-        "16462543366e2968a9-4",
-        "16462543366e2968a9-5",
-        "16462543366e2968a9-6",
-        "16462543366e2968a9-7"
-      ],
-      "settings": {
-        "product": "knife-sharpening-workshop-with-nari-watabe-san-of-hazuki-sharpe",
-        "secondary_background": true,
-        "hide_variants": false,
-        "enable_video_looping": false
-      }
-    },
     "1639454140d7479252": {
       "type": "image-banner",
       "disabled": true,
@@ -864,6 +863,7 @@
     "rich_text",
     "16404370381106b261",
     "164044354357bb1622",
+    "16462543368f7dd8b1",
     "1659662325d17d1589",
     "1651456182bdf00211",
     "featured_products",
@@ -873,7 +873,6 @@
     "1645576543569f0c6b",
     "16455766065292c4ae",
     "image_banner",
-    "16462543368f7dd8b1",
     "1639454140d7479252",
     "1633478700e692e19b",
     "collage",
