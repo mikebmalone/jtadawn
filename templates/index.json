@@ -1,5 +1,106 @@
 {
   "sections": {
+    "1633935714431a2bf0": {
+      "type": "collage",
+      "blocks": {
+        "1633935714431a2bf0-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/stroppy.mp4_360p_.mp4-low_1.gif",
+            "video_url": "https:\/\/vimeo.com\/736460715",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "1633935714431a2bf0-1": {
+          "type": "product",
+          "settings": {
+            "product": "hardwwod-leather-strop-large",
+            "second_image": true,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "1633935714431a2bf0-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "sharpening",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1633935714431a2bf0-0",
+        "1633935714431a2bf0-1",
+        "1633935714431a2bf0-2"
+      ],
+      "settings": {
+        "heading": "GETTING STROPPY AT JTA",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "16462543368f7dd8b1": {
+      "type": "featured-product",
+      "blocks": {
+        "16462543366e2968a9-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "16462543366e2968a9-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16462543366e2968a9-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16462543366e2968a9-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16462543366e2968a9-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16462543366e2968a9-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16462543366e2968a9-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16462543366e2968a9-1",
+        "16462543366e2968a9-2",
+        "16462543366e2968a9-3",
+        "16462543366e2968a9-4",
+        "16462543366e2968a9-5",
+        "16462543366e2968a9-6",
+        "16462543366e2968a9-7"
+      ],
+      "settings": {
+        "product": "hardwwod-leather-strop-large",
+        "secondary_background": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
     "1654523213f927a84f": {
       "type": "video",
       "disabled": true,
@@ -13,6 +114,7 @@
     },
     "1640490560901f9aa8": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1640490560ae91463e-0": {
           "type": "heading",
@@ -154,90 +256,6 @@
         "full_width": false
       }
     },
-    "164044354357bb1622": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Kitchen Knives",
-        "collection": "kitchen-knives",
-        "products_to_show": 8,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "portrait",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": true
-      }
-    },
-    "16462543368f7dd8b1": {
-      "type": "featured-product",
-      "blocks": {
-        "16462543366e2968a9-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "16462543366e2968a9-1": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "16462543366e2968a9-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "16462543366e2968a9-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "16462543366e2968a9-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "16462543366e2968a9-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "16462543366e2968a9-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "16462543366e2968a9-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "16462543366e2968a9-0",
-        "16462543366e2968a9-1",
-        "16462543366e2968a9-2",
-        "16462543366e2968a9-3",
-        "16462543366e2968a9-4",
-        "16462543366e2968a9-5",
-        "16462543366e2968a9-6",
-        "16462543366e2968a9-7"
-      ],
-      "settings": {
-        "product": "hardwwod-leather-strop-large",
-        "secondary_background": true,
-        "hide_variants": false,
-        "enable_video_looping": false
-      }
-    },
     "1659662325d17d1589": {
       "type": "image-with-text",
       "blocks": {
@@ -271,6 +289,22 @@
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
+      }
+    },
+    "164044354357bb1622": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Kitchen Knives",
+        "collection": "kitchen-knives",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
       }
     },
     "1651456182bdf00211": {
@@ -706,48 +740,6 @@
         "show_view_all": true
       }
     },
-    "1633935714431a2bf0": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "1633935714431a2bf0-0": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/hqdefault.jpg",
-            "video_url": "https:\/\/vimeo.com\/592533019",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
-        "1633935714431a2bf0-1": {
-          "type": "product",
-          "settings": {
-            "product": "58mm-hikoroku-kanna-by-yamamoto-san",
-            "second_image": false,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
-        "1633935714431a2bf0-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "planes",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "1633935714431a2bf0-0",
-        "1633935714431a2bf0-1",
-        "1633935714431a2bf0-2"
-      ],
-      "settings": {
-        "heading": "kanna 鉋",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
-    },
     "1659585017f7073cbe": {
       "type": "multicolumn",
       "blocks": {
@@ -818,53 +810,28 @@
         "full_width": false
       }
     },
-    "165958457636ecb830": {
-      "type": "image-with-text",
+    "1659937864a42c08ab": {
+      "type": "video",
       "disabled": true,
-      "blocks": {
-        "1659584576f1e6fa57-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Mirka = a dust free workshop"
-          }
-        },
-        "1659584576f1e6fa57-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Best Abrasives helps professionals all over Australia experience the amazing benefits of Mirka world-leading abrasives, tools and machinery for the industrial, commercial or home workshop.<\/p><p>Over the past thirty years, Mirka has grown into one of the world's largest producers of coated abrasives.<\/p><p>Today, Mirka offers a wide product range for individual operations and complete sanding systems for specialised applications.<\/p><p>Best Abrasives is proud to offer Mirka products to the Australian market.<\/p>"
-          }
-        },
-        "1659584576f1e6fa57-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "FIND OUT MORE AT BEST ABRASIVES",
-            "button_link": "https:\/\/www.bestabrasives.com.au\/"
-          }
-        }
-      },
-      "block_order": [
-        "1659584576f1e6fa57-0",
-        "1659584576f1e6fa57-1",
-        "1659584576f1e6fa57-2"
-      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Mirka-Deos.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
+        "heading": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=JN6_wml-K8M",
+        "description": "",
+        "full_width": false
       }
     }
   },
   "order": [
+    "1633935714431a2bf0",
+    "16462543368f7dd8b1",
     "1654523213f927a84f",
     "1640490560901f9aa8",
     "1646217127ebecd0f6",
     "1640442342d5a2f857",
     "rich_text",
     "16404370381106b261",
-    "164044354357bb1622",
-    "16462543368f7dd8b1",
     "1659662325d17d1589",
+    "164044354357bb1622",
     "1651456182bdf00211",
     "featured_products",
     "1640442028ff1e9280",
@@ -877,9 +844,8 @@
     "1633478700e692e19b",
     "collage",
     "163392785340acd066",
-    "1633935714431a2bf0",
     "1659585017f7073cbe",
     "16339295346bea512a",
-    "165958457636ecb830"
+    "1659937864a42c08ab"
   ]
 }
