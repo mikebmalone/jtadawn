@@ -95,7 +95,7 @@
         "16462543366e2968a9-7"
       ],
       "settings": {
-        "product": "hardwwod-leather-strop-large",
+        "product": "onikatana-ryoba-saw-270mm",
         "secondary_background": true,
         "hide_variants": false,
         "enable_video_looping": false
@@ -256,47 +256,12 @@
         "full_width": false
       }
     },
-    "1659662325d17d1589": {
-      "type": "image-with-text",
-      "blocks": {
-        "16596623250824a4b6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "KNIFE SHARPENING WORKSHOP WITH NARI WATABE-SAN OF HAZUKI SHARPE"
-          }
-        },
-        "16596623250824a4b6-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>JTA is proud to welcome Nari Watabe-san to run workshops from late August\/Sept on Knife Sharpening.<\/p><p>Nari-san is a member of Japan Hocho Togi Association, a Japanese organisation focused on teaching and expanding the knowledge traditional waterstone sharpening around the world.  <\/p><p>In these comprehensive classes students will not only learn practical skills, but the theory behind knife sharpening. <\/p>"
-          }
-        },
-        "16596623250824a4b6-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Find out more",
-            "button_link": "shopify:\/\/pages\/knife-sharpening-workshop-with-nari-watabe-san-of-hazuki-sharpe"
-          }
-        }
-      },
-      "block_order": [
-        "16596623250824a4b6-0",
-        "16596623250824a4b6-1",
-        "16596623250824a4b6-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-01_at_2.13.23_pm.png",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "image_first"
-      }
-    },
     "164044354357bb1622": {
       "type": "featured-collection",
       "settings": {
-        "title": "Kitchen Knives",
-        "collection": "kitchen-knives",
-        "products_to_show": 8,
+        "title": "Japanese Bench Chisels",
+        "collection": "japanese-bench-chisels",
+        "products_to_show": 6,
         "show_view_all": true,
         "swipe_on_mobile": true,
         "image_ratio": "portrait",
@@ -740,6 +705,41 @@
         "show_view_all": true
       }
     },
+    "1659662325d17d1589": {
+      "type": "image-with-text",
+      "blocks": {
+        "16596623250824a4b6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "KNIFE SHARPENING WORKSHOP WITH NARI WATABE-SAN OF HAZUKI SHARPE"
+          }
+        },
+        "16596623250824a4b6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>JTA is proud to welcome Nari Watabe-san to run workshops from late August\/Sept on Knife Sharpening.<\/p><p>Nari-san is a member of Japan Hocho Togi Association, a Japanese organisation focused on teaching and expanding the knowledge traditional waterstone sharpening around the world.  <\/p><p>In these comprehensive classes students will not only learn practical skills, but the theory behind knife sharpening. <\/p>"
+          }
+        },
+        "16596623250824a4b6-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out more",
+            "button_link": "shopify:\/\/pages\/knife-sharpening-workshop-with-nari-watabe-san-of-hazuki-sharpe"
+          }
+        }
+      },
+      "block_order": [
+        "16596623250824a4b6-0",
+        "16596623250824a4b6-1",
+        "16596623250824a4b6-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-01_at_2.13.23_pm.png",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "1659585017f7073cbe": {
       "type": "multicolumn",
       "blocks": {
@@ -830,7 +830,6 @@
     "1640442342d5a2f857",
     "rich_text",
     "16404370381106b261",
-    "1659662325d17d1589",
     "164044354357bb1622",
     "1651456182bdf00211",
     "featured_products",
@@ -844,6 +843,7 @@
     "1633478700e692e19b",
     "collage",
     "163392785340acd066",
+    "1659662325d17d1589",
     "1659585017f7073cbe",
     "16339295346bea512a",
     "1659937864a42c08ab"
