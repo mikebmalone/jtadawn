@@ -344,8 +344,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Shapton Whetstone",
-        "collection": "shapton-sharpening",
+        "title": "SIGMA SELECT",
+        "collection": "sigma-select-ii-waterstones",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
