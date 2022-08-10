@@ -344,7 +344,7 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "SIGMA SELECT",
+        "title": "SIGMA SELECT WATERSTONE",
         "collection": "sigma-select-ii-waterstones",
         "products_to_show": 8,
         "show_view_all": true,
