@@ -359,7 +359,6 @@
     },
     "1640442028ff1e9280": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "1640442028f914414d-0": {
           "type": "text",
@@ -420,7 +419,7 @@
         "1640442028f914414d-7"
       ],
       "settings": {
-        "product": "kanaban-steel-lapping-plate",
+        "product": "kakuri-heavy-duty-canvas-tool-bag",
         "secondary_background": true,
         "hide_variants": false,
         "enable_video_looping": false
@@ -429,8 +428,8 @@
     "1635812071e4802376": {
       "type": "featured-collection",
       "settings": {
-        "title": "STONE & TOOL MAINTENANCE",
-        "collection": "tool-stone-maintenance",
+        "title": "JAPANESE PLANES",
+        "collection": "japanese-planes",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
