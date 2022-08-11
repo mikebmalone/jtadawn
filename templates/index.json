@@ -36,9 +36,24 @@
         "layout": "text_first"
       }
     },
+    "1640442342d5a2f857": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Father's Day Sets",
+        "collection": "mothers-day",
+        "products_to_show": 6,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "16462543368f7dd8b1": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "16462543366e2968a9-1": {
           "type": "title",
@@ -91,7 +106,7 @@
         "16462543366e2968a9-7"
       ],
       "settings": {
-        "product": "onikatana-ryoba-saw-270mm",
+        "product": "chopstick-maker-jig",
         "secondary_background": true,
         "hide_variants": false,
         "enable_video_looping": false
@@ -151,23 +166,6 @@
         "mobile_layout": "collage"
       }
     },
-    "1640442342d5a2f857": {
-      "type": "featured-collection",
-      "disabled": true,
-      "settings": {
-        "title": "Father's Day Sets",
-        "collection": "mothers-day",
-        "products_to_show": 6,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
-    },
     "rich_text": {
       "type": "rich-text",
       "disabled": true,
@@ -217,6 +215,7 @@
     },
     "164044354357bb1622": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Japanese Bench Chisels",
         "collection": "japanese-bench-chisels",
@@ -303,8 +302,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "SIGMA SELECT WATERSTONE",
-        "collection": "sigma-select-ii-waterstones",
+        "title": "Shapton Glass Stone",
+        "collection": "shapton-glass-stones",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
@@ -823,10 +822,10 @@
   },
   "order": [
     "1640490560901f9aa8",
+    "1640442342d5a2f857",
     "16462543368f7dd8b1",
     "1654523213f927a84f",
     "1646217127ebecd0f6",
-    "1640442342d5a2f857",
     "rich_text",
     "16404370381106b261",
     "164044354357bb1622",
