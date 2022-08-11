@@ -1,44 +1,39 @@
 {
   "sections": {
-    "1633935714431a2bf0": {
-      "type": "collage",
+    "1640490560901f9aa8": {
+      "type": "image-with-text",
       "blocks": {
-        "1633935714431a2bf0-0": {
-          "type": "video",
+        "1640490560ae91463e-0": {
+          "type": "heading",
           "settings": {
-            "cover_image": "shopify:\/\/shop_images\/stroppy.mp4_360p_.mp4-low_1.gif",
-            "video_url": "https:\/\/vimeo.com\/736460715",
-            "description": "Describe the video",
-            "image_padding": false
+            "heading": "Father's Day Shopping - look no further..."
           }
         },
-        "1633935714431a2bf0-1": {
-          "type": "product",
+        "1640490560ae91463e-1": {
+          "type": "text",
           "settings": {
-            "product": "hardwwod-leather-strop-large",
-            "second_image": true,
-            "image_padding": false,
-            "secondary_background": false
+            "text": "<p>& we will even gift wrap it too!<\/p><p><\/p><p>Showroom open M-F: 9am-5pm<\/p><p><\/p>"
           }
         },
-        "1633935714431a2bf0-2": {
-          "type": "collection",
+        "1640490560ae91463e-2": {
+          "type": "button",
+          "disabled": true,
           "settings": {
-            "collection": "sharpening",
-            "image_padding": false,
-            "color_scheme": "background-1"
+            "button_label": "View all Shinogis",
+            "button_link": "shopify:\/\/collections\/shinogi-nomi-dovetail-chisels"
           }
         }
       },
       "block_order": [
-        "1633935714431a2bf0-0",
-        "1633935714431a2bf0-1",
-        "1633935714431a2bf0-2"
+        "1640490560ae91463e-0",
+        "1640490560ae91463e-1",
+        "1640490560ae91463e-2"
       ],
       "settings": {
-        "heading": "GETTING STROPPY AT JTA",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
+        "image": "shopify:\/\/shop_images\/IMG_9999_1.jpg",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "text_first"
       }
     },
     "16462543368f7dd8b1": {
@@ -110,43 +105,6 @@
         "video_url": "https:\/\/vimeo.com\/717509488\/e09b3424e7",
         "description": "",
         "full_width": false
-      }
-    },
-    "1640490560901f9aa8": {
-      "type": "image-with-text",
-      "disabled": true,
-      "blocks": {
-        "1640490560ae91463e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "The Sydney Knife Show"
-          }
-        },
-        "1640490560ae91463e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Come visit the JTA stand <\/p><p>SAT 6th - SUN 7th AUG <\/p><p>The Grand Pavillion,                  Rosehill Racecourse Gardens<\/p>"
-          }
-        },
-        "1640490560ae91463e-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "View all Shinogis",
-            "button_link": "shopify:\/\/collections\/shinogi-nomi-dovetail-chisels"
-          }
-        }
-      },
-      "block_order": [
-        "1640490560ae91463e-0",
-        "1640490560ae91463e-1",
-        "1640490560ae91463e-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Screen_Shot_2022-08-01_at_1.51.07_pm.png",
-        "height": "adapt",
-        "color_scheme": "inverse",
-        "layout": "text_first"
       }
     },
     "1646217127ebecd0f6": {
@@ -423,6 +381,47 @@
         "secondary_background": true,
         "hide_variants": false,
         "enable_video_looping": false
+      }
+    },
+    "1633935714431a2bf0": {
+      "type": "collage",
+      "blocks": {
+        "1633935714431a2bf0-0": {
+          "type": "video",
+          "settings": {
+            "cover_image": "shopify:\/\/shop_images\/stroppy.mp4_360p_.mp4-low_1.gif",
+            "video_url": "https:\/\/vimeo.com\/736460715",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "1633935714431a2bf0-1": {
+          "type": "product",
+          "settings": {
+            "product": "hardwwod-leather-strop-large",
+            "second_image": true,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "1633935714431a2bf0-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "sharpening",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1633935714431a2bf0-0",
+        "1633935714431a2bf0-1",
+        "1633935714431a2bf0-2"
+      ],
+      "settings": {
+        "heading": "GETTING STROPPY AT JTA",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
       }
     },
     "1635812071e4802376": {
@@ -706,6 +705,7 @@
     },
     "1659662325d17d1589": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16596623250824a4b6-0": {
           "type": "heading",
@@ -821,10 +821,9 @@
     }
   },
   "order": [
-    "1633935714431a2bf0",
+    "1640490560901f9aa8",
     "16462543368f7dd8b1",
     "1654523213f927a84f",
-    "1640490560901f9aa8",
     "1646217127ebecd0f6",
     "1640442342d5a2f857",
     "rich_text",
@@ -833,6 +832,7 @@
     "1651456182bdf00211",
     "featured_products",
     "1640442028ff1e9280",
+    "1633935714431a2bf0",
     "1635812071e4802376",
     "1640442025f0266c09",
     "1645576543569f0c6b",
