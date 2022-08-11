@@ -202,20 +202,8 @@
         "full_width": true
       }
     },
-    "16404370381106b261": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "Nari-san Works his Magic in the JTA Workshop",
-        "cover_image": "shopify:\/\/shop_images\/Side-on_sharpening_square-high.gif",
-        "video_url": "https:\/\/vimeo.com\/683725383",
-        "description": "",
-        "full_width": false
-      }
-    },
     "164044354357bb1622": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "title": "Marking Knives",
         "collection": "marking-knives",
@@ -297,22 +285,6 @@
         "secondary_background": false,
         "hide_variants": false,
         "enable_video_looping": false
-      }
-    },
-    "featured_products": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Shapton Glass Stone",
-        "collection": "shapton-glass-stones",
-        "products_to_show": 8,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
       }
     },
     "1640442028ff1e9280": {
@@ -438,6 +410,33 @@
         "heading": "GETTING STROPPY AT JTA",
         "desktop_layout": "left",
         "mobile_layout": "collage"
+      }
+    },
+    "featured_products": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shapton Glass Stone",
+        "collection": "shapton-glass-stones",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "16404370381106b261": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "Nari-san Works his Magic in the JTA Workshop",
+        "cover_image": "shopify:\/\/shop_images\/Side-on_sharpening_square-high.gif",
+        "video_url": "https:\/\/vimeo.com\/683725383",
+        "description": "",
+        "full_width": false
       }
     },
     "1640442025f0266c09": {
@@ -827,13 +826,13 @@
     "1654523213f927a84f",
     "1646217127ebecd0f6",
     "rich_text",
-    "16404370381106b261",
     "164044354357bb1622",
     "1651456182bdf00211",
-    "featured_products",
     "1640442028ff1e9280",
     "1635812071e4802376",
     "1633935714431a2bf0",
+    "featured_products",
+    "16404370381106b261",
     "1640442025f0266c09",
     "1645576543569f0c6b",
     "16455766065292c4ae",
