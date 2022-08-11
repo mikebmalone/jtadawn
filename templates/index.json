@@ -38,6 +38,7 @@
     },
     "16462543368f7dd8b1": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "16462543366e2968a9-1": {
           "type": "title",
@@ -154,9 +155,9 @@
       "type": "featured-collection",
       "disabled": true,
       "settings": {
-        "title": "gardening sickles",
-        "collection": "gardening-sickles",
-        "products_to_show": 8,
+        "title": "Father's Day Sets",
+        "collection": "mothers-day",
+        "products_to_show": 6,
         "show_view_all": true,
         "swipe_on_mobile": true,
         "image_ratio": "adapt",
