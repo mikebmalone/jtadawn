@@ -383,6 +383,22 @@
         "enable_video_looping": false
       }
     },
+    "1635812071e4802376": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Secateurs",
+        "collection": "secateurs",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": true,
+        "show_rating": true
+      }
+    },
     "1633935714431a2bf0": {
       "type": "collage",
       "blocks": {
@@ -422,22 +438,6 @@
         "heading": "GETTING STROPPY AT JTA",
         "desktop_layout": "left",
         "mobile_layout": "collage"
-      }
-    },
-    "1635812071e4802376": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Secateurs",
-        "collection": "secateurs",
-        "products_to_show": 8,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": true,
-        "show_rating": true
       }
     },
     "1640442025f0266c09": {
@@ -832,8 +832,8 @@
     "1651456182bdf00211",
     "featured_products",
     "1640442028ff1e9280",
-    "1633935714431a2bf0",
     "1635812071e4802376",
+    "1633935714431a2bf0",
     "1640442025f0266c09",
     "1645576543569f0c6b",
     "16455766065292c4ae",
