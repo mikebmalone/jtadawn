@@ -25,8 +25,8 @@
     "163347877144fc0534": {
       "type": "featured-collection",
       "settings": {
-        "title": "Back in Stock",
-        "collection": "back-in-stock",
+        "title": "",
+        "collection": "mothers-day",
         "products_to_show": 4,
         "show_view_all": false,
         "swipe_on_mobile": true,
