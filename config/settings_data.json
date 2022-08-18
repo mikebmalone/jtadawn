@@ -25,8 +25,8 @@
     "checkout_logo_position": "center",
     "checkout_logo_size": "medium",
     "checkout_body_background_color": "#ffffff",
-    "checkout_accent_color": "#1878b9",
-    "checkout_button_color": "#1878b9",
+    "checkout_accent_color": "#e22120",
+    "checkout_button_color": "#2062e2",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
