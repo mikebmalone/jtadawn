@@ -40,7 +40,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Father's Day Sets",
-        "collection": "mothers-day",
+        "collection": "fathers-day",
         "products_to_show": 8,
         "show_view_all": true,
         "swipe_on_mobile": true,
